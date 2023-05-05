@@ -19,4 +19,4 @@ jobs:
         run: |
           lftp -c "set ftp:ssl-allow no;
           open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ${{ secrets.FTP_HOSTNAME }};
-          mirror --reverse ./ /home/stageret/public_html/eco-2023"
+          mirror --reverse ./ /public_html/eco-2023"
