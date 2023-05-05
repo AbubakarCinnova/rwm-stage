@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>Smart thermostats | 911 Mechanical Heating and Cooling</title>
+<title>Smart thermostats | Ecofriendly Heating and Cooling</title>
 <?php include_once('menu.php') ?>
 </head>
 
@@ -20,11 +20,7 @@
 
                                 <br>
 
-
-
-                                <p><strong>Smart thermostats are designed to provide temperature control for homes and
-                                        buildings, but with advanced features that allow for increased efficiency and
-                                        convenience.</strong></p>
+                                <p><strong>Smart thermostats are designed to provide temperature control for homes and buildings, but with advanced features that allow for increased efficiency and convenience.</strong></p>
 
 
 
@@ -222,7 +218,7 @@
 
 
 
-                                <h2>At 911 Mechanical, we understand the importance of choosing a trustworthy and
+                                <h2>At Ecofriendly Heating and Cooling, we understand the importance of choosing a trustworthy and
                                     dependable HVAC company for your smart thermostat investment. This is what sets us
                                     apart from the competition:</h2>
                                 <ul>
