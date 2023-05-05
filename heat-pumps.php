@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>911 Mechanical | Heat Pumps </title>
+<title>Ecofriendly Heating and Cooling | Heat Pumps </title>
 
 <?php include_once('menu.php') ?>
 </head>
@@ -20,46 +20,23 @@
                                     </strong></p>
 
 
-                                <p>A heat pump is a dual-function system that can both heat and cool a home, making it a
-                                    versatile option for homeowners in Michigan. Combining a heat pump with a furnace
-                                    creates a dual fuel system that ensures year-round comfort, with the heat pump
-                                    operating
-                                    as an air conditioner in summer and extracting heat from the outdoor air and
-                                    transferring it inside in winter.</p>
+                                <p>A heat pump is a dual-function system that can both heat and cool a home, making it a versatile option for homeowners in Indiana. Combining a heat pump with a furnace creates a dual fuel system that ensures year-round comfort, with the heat pump operating as an air conditioner in summer and extracting heat from the outdoor air and transferring it inside in winter. </p>
 
 
 
-                                <p>For optimal performance, a heat pump is most effective when temperatures are above 30
-                                    degrees Fahrenheit, and a furnace can take over in colder weather. Homeowners in
-                                    Michigan may need a supplemental heating source when temperatures drop
-                                    significantly.
-                                    However, combining a Lennox or Carrier heat pump with an efficient furnace can
-                                    create an
-                                    energy-saving dual-fuel system that reduces gas fuel consumption and ensures maximum
-                                    comfort on extra-cold days.</p>
+                                <p>For optimal performance, a heat pump is most effective when temperatures are above 30 degrees Fahrenheit, and a furnace can take over in colder weather. Homeowners in Indiana may need a supplemental heating source when temperatures drop significantly. However, combining a Lennox heat pump with an efficient furnace can create an energy-saving dual-fuel system that reduces gas fuel consumption and ensures maximum comfort on extra-cold days. </p>
 
 
 
-                                <p>Energy efficiency is affected by a variety of factors, including the design, size,
-                                    and
-                                    maintenance of the HVAC system, climate, building insulation, and occupants'
-                                    behavior.
-                                    Our comfort designers can conduct proper analysis and load calculations to help in
-                                    selecting the most suitable HVAC system for a home or business.</p>
+                                <p>Energy efficiency is affected by a variety of factors, including the design, size, and maintenance of the HVAC system, climate, building insulation, and occupants' behavior. Our comfort designers can conduct proper analysis and load calculations to help in selecting the most suitable HVAC system for a home or business.</p>
 
 
 
-                                <p>911 Mechanical is actively working with customers to get the maximum credit on their
-                                    new
-                                    heat pump installations by utilizing the Federal Inflation Reduction Act as well as
-                                    local Utility Rebates and manufacturer rebates. Contact us today and find out how
-                                    you
-                                    can qualify for up to $5600.00 in additional savings.</p>
+                                <p>Ecofriendly Heating and Cooling is actively working with customers to get the maximum credit on their new heat pump installations by utilizing the Federal Inflation Reduction Act as well as local Utility Rebates and manufacturer rebates. </p>
 
 
                                 <h2>Lennox Model SL25XPV HEAT PUMP</h2>
-                                <p> The most precise and efficient heat pump you can buy. Now featuring Lennox TruHeat
-                                    Performance.</p>
+                                <p> The most precise and efficient heat pump you can buy. Now featuring Lennox TruHeat Performance.</p>
                                 <ul>
                                     <li>Stages of Cooling: Variable-Capacity Operation</li>
                                     <li>Energy Efficiency 24</li>
@@ -100,43 +77,26 @@
 
                                 <br>
 
-                                <h2>Carrier Model 25VNA4 HEAT PUMP</h2>
+                                <h2>Lennox Model EL16XP1 HEAT PUMP</h2>
+                                <p>A highly efficient, single-stage heat pump that delivers exceptional comfort</p>
                                 <ul>
-                                    <li>Stages of Cooling: Variable-Capacity Operation</li>
-                                    <li>Cooling SEER2 Up to 22</li>
-                                    <li> Heating HSPF2 Up to 10.5</li>
-                                    <li>ENERGY STAR®</li>
-                                    <li>Sound Level As low as 61 dBA</li>
-                                    <li>Silencer System II Design</li>
-                                    <li> Compressor Sound Blanket</li>
-                                    <li>R-410A refrigerant</li>
-                                    <li>10-year parts limited warranty upon timely registration and 10-year unit
-                                        replacement
-                                        limited warranty.*</li>
+                                <li>Stages of Cooling: Single Stage</li>
+                        <li>Up to 17 (SEER), Up to 9.8 (HSPF)</li>
+                        <li>ENERGY STAR®</li>
+                        <li>Sound Level As low as 71 dBA</li>
+                        <li>Cabinet PermaGuard Cabinet </li>
+                        <li>R-410A refrigerant</li>
+                        <li>Tax Credit Eligible: Yes</li>
+                        <li>Elite models come with a 10-Year Limited Warranty on compressors and a 5-Year Limited Warranty on covered components. A 10-Year Extended Limited Warranty is available with product registration.</li>
                                 </ul>
                                 <br>
 
-                                <p>
-                                    Carrier warranty info: <br>
-                                    *To the original owner, when the product is used in an owner-occupied residence, a
-                                    10-year parts limited warranty upon timely registration of your new equipment. The
-                                    warranty period is 5 years if not registered within 90 days. Jurisdictions, where
-                                    warranty benefits cannot be conditioned on registration, will automatically receive
-                                    a
-                                    10-year parts limited warranty. See warranty certificate for complete details.
-                                    10-year
-                                    unit replacement limited warranty for compressor failures only, to the original
-                                    purchaser with timely registration, except where restricted by jurisdiction. See the
-                                    limited warranty certificate for details and restrictions.
-                                </p>
 
-                                <p><strong> When it comes to getting the best heating and cooling equipment or service,
-                                        the only
-                                        name you need to know is 911 Mechanical.</strong></p>
+                                <p><strong> When it comes to getting the best heating and cooling equipment or service, the only name you need to know is Ecofriendly Heating and Cooling.</strong></p>
 
                             
                                 <br>
-                                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request Quote</a>
+                               <!--  <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request Quote</a> -->
                             </div>
                         </div>
                     </div>
