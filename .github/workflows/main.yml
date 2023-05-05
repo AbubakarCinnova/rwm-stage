@@ -17,6 +17,6 @@ jobs:
       
       - name: Deploy to FTP server
         run: |
-          lftp -c "set ftp:ssl-allow no;
+          lftp -c "set ftp:ssl-allow yes;
           open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ${{ secrets.FTP_HOSTNAME }};
           mirror --reverse ./ /public_html/eco-2023"
