@@ -53,7 +53,7 @@
         <div class="container">
 
             <div class="text-center col-xs-12 footer-item copyrights text-muted">
-                <p>All Rights Reserved. Copyright Ecofriendly Mechanical</p>
+                <p>All Rights Reserved. Copyright ©️ Ecofriendly Mechanical</p>
             </div>
 
         </div>
