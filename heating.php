@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>911 Mechanical | Heating</title>
+<title>Eco Friendly | Heating</title>
 <?php include_once('menu.php') ?>
 </head>
 
@@ -18,48 +18,24 @@
 
 								<h2>Furnace Repair</h2>
 
-								<p>If your furnace has broken down again, don't hesitate to contact 911 Mechanical
-									Heating
-									and Cooling. We'll arrive promptly and quickly fix the issue, allowing you to focus
-									on
-									more important matters. Our skilled technicians are equipped to handle repairs for
-									all
-									types of furnaces, including gas, electric, dual fuel, and heat pump systems. We
-									service
-									and repair all brands and models, and offer 24/7 emergency services.</p>
+								<p>If your furnace has broken down again, don't hesitate to contact Ecofriendly Heating and Cooling. We'll arrive promptly and quickly fix the issue, allowing you to focus on more important matters. Our skilled technicians are equipped to handle repairs for all types of furnaces, including gas, electric, dual fuel, and heat pump systems. We service and repair all brands and models, and offer 24/7 emergency services.</p>
 
 
 								<h2>Furnace Replacement and Installation</h2>
-								<p>911 Mechanical Heating and Cooling can help lower your high utility costs with the
-									installation of a Lennox or Carrier high-efficiency furnace. Our team will work with
-									you
-									to customize an energy-efficient heating system that fits your family's comfort
-									needs
-									and budget. <br>
+								<p>Ecofriendly Heating and Cooling can help lower your high utility costs with the installation of a Lennox high-efficiency furnace. Our team will work with you to customize an energy-efficient heating system that fits your family's comfort needs <br>
 									<a href="<?php echo $base_url ?>/furnaces.php">View Furnaces</a>
 								</p>
 
 
 								<h2>Furnace Maintenance</h2>
 
-								<p>When 911 Mechanical Heating and Cooling provides you with furnace maintenance checks
-									before the cold of winter sets in, you will be saving money in several different
-									ways.
-									One of the benefits of a maintenance plan is our technicians will be less likely to
-									have
-									to make repairs throughout the year as long as your system is properly maintained.
-									911
-									Mechanical Heating and Cooling will keep your heating system running at its most
-									efficient level, helping to reduce your energy bills each month. An added benefit of
-									a
-									more efficiently running system is the positive environmental effect that it will
-									have.
+								<p>When EcoFriendly Heating and Cooling provides you with furnace maintenance checks before the cold of winter sets in, you will be saving money in several different ways. One of the benefits of a maintenance plan is our technicians will be less likely to have to make repairs throughout the year as long as your system is properly maintained. Ecofriendly Heating and Cooling will keep your heating system running at its most efficient level, helping to reduce your energy bills each month. An added benefit of a more efficiently running system is the positive environmental effect that it will have. 
 									<br>
 									<a href="<?php echo $base_url ?>/maintenance-plan.php">View
 										Maintenance</a>
 								</p>
 
-								<h2>911 Mechanical Heating Services:</h2>
+								<h2>Ecofriendly Heating Services:</h2>
 
 								<ul>
 									<li>High-Efficiency Furnaces</li>
@@ -80,7 +56,7 @@
 									<li>Driveway Melt Systems</li>
 									<li>Ductless Mini Split</li>
 									<li>Lennox Dealer</li>
-									<li>Carrier Dealer</li>
+									<li>Maintance Plans</li>
 									<li>New Furnace Installation</li>
 									<li>Furnace Replacement</li>
 									<li>Friendly Technicians</li>
@@ -91,9 +67,7 @@
 									<li>Heating System Upgrades</li>
 								</ul>
 								<br>
-								<p><strong>When it comes to getting the best heating and cooling equipment or service,
-										the only
-										name you need to know is 911 Mechanical.</strong> </p>
+								<p><strong>When it comes to getting the best heating and cooling equipment or service, the only name you need to know is Ecofriendly. </strong> </p>
 
 								<br>
 							</div>
