@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>911 Mechanical| Indoor Air Quality </title>
+<title>Ecofriendly| Indoor Air Quality </title>
 
 <?php include_once('menu.php') ?>
 </head>
@@ -33,21 +33,14 @@
 
 
 
-                                        <h2>911 Mechanical Indoor Air Quality Specialists
+                                        <h2>Ecofriendly Indoor Air Quality Specialists
                                         </h2>
 
-                                        <p>911 Mechanical's, whole-home indoor air quality approach not only increases
-                                            the quality of the air within your home but also makes a substantial
-                                            reduction in your home's energy use, which in turn saves you money on your
-                                            energy bills.</p>
+                                        <p>Ecofriendly's, whole-home indoor air quality approach not only increases the quality of the air within your home but also makes a substantial reduction in your home's energy use, which in turn saves you money on your energy bills.</p>
 
                                         <br>
 
-                                        <p>911 Mechanical are expert at providing air filtration products that work
-                                            along with your central heating and central air conditioning system. The
-                                            solutions below used by themselves are effective, but in combination,
-                                            provide a maximum solution for those suffering from asthma, allergies, or
-                                            other breathing issues.</p>
+                                        <p>Ecofriendly are expert at providing air filtration products that work along with your central heating and central air conditioning system. The solutions below used by themselves are effective, but in combination, provide a maximum solution for those suffering from asthma, allergies, or other breathing issues.</p>
 
                                         <br>
 

@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>911 Mechanical | Repair Services </title>
+<title>Ecofriendly | Repair Services </title>
 
 <?php include_once('menu.php') ?>
 </head>
@@ -21,7 +21,7 @@
                                         heating and cooling equipment.</strong></p>
 
                                 <h2>FURNACE REPAIR SERVICES</h2>
-                                <p>At 911 Mechanical our trained technicians will expertly diagnose, repair and service
+                                <p>At Ecofriendly our trained technicians will expertly diagnose, repair and service
                                     your furnace or HVAC to restore maximum efficiency and comfort. We repair furnaces
                                     including electric furnaces, gas furnaces, heat pumps, and boilers for residential
                                     and
@@ -33,7 +33,7 @@
                                 <p>Is your air conditioning system not providing cooling to your home or business well?
                                     Does your AC central air unit need to be recharged or does it not run at all?
                                     Whatever
-                                    the issue, 911 Mechanical's friendly and expert technicians can quickly diagnose and
+                                    the issue, Ecofriendly's friendly and expert technicians can quickly diagnose and
                                     repair your air conditioning systems problems.</p>
 
 
@@ -43,7 +43,7 @@
                                     occasionally
                                     require repairs. Whenever you find yourself in need of boiler repair, don’t hesitate
                                     to
-                                    give 911 Mechanical a call. Our friendly technicians are experts with boilers and
+                                    give Ecofriendly a call. Our friendly technicians are experts with boilers and
                                     we’ll
                                     have yours fixed before you know it.</p>
 
@@ -102,7 +102,7 @@
 
                                 <p><strong>When it comes to getting the best heating and cooling equipment or service,
                                         the only
-                                        name you need to know is 911 Mechanical.</strong></p>
+                                        name you need to know is Ecofriendly.</strong></p>
 
                                 <br>
                                 <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request

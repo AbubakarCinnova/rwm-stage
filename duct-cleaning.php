@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>911 Mechanical | Duct Cleaning</title>
+<title>Ecofriendly | Duct Cleaning</title>
 <?php include_once('menu.php') ?>
 </head>
 
@@ -14,11 +14,9 @@
                         <div class="row">
                             <div class="col-sm-12">
 
-
-
                                 <h1>Residential Air Duct Cleaning</h1>
 
-                                <p><strong>911 Mechanical Heating and Cooling can help you get cleaner air into your
+                                <p><strong>Ecofriendly Heating and Cooling can help you get cleaner air into your
                                         home. We’re
                                         proud to partner with Advanced Air Care to provide you with duct cleaning
                                         services to

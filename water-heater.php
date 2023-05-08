@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>Water Heater | 911 Mechanical Heating and Cooling</title>
+<title>Water Heater | Ecofriendly Heating and Cooling</title>
 <?php include_once('menu.php') ?>
 </head>
 
@@ -15,16 +15,12 @@
                             <div class="col-sm-12">
 
                                 <div class="inner-page-banner"><img
-                                        src="<?php echo $base_url; ?>/img/911 Mechanical Water Heaters.jpg"
+                                        src="<?php echo $base_url; ?>/img/Ecofriendly Water Heaters.jpg"
                                         alt="Water Heaters"></div>
 
                                 <h2>We offer expert services for both conventional tanked water heaters and tankless
                                     water heaters</h2>
-                                <p>When it comes to your water heater, you need an expert to help you ensure everything
-                                    is running correctly and efficiently. Whether you’re replacing an existing
-                                    conventional tanked water heater or a tankless water heater. 911 Mechanical is the
-                                    company for you. We will match you with a water heater that has the capacity, energy
-                                    efficiency, and price to meet all your hot water needs.</p>
+                                    <p>When it comes to your water heater, you need an expert to help you ensure everything is running correctly and efficiently. Whether you’re replacing an existing conventional tanked water heater or a tankless water heater. Ecofriendly is the company for you. We will match you with a water heater that has the capacity, energy efficiency, and price to meet all your hot water needs.</p>
 
                                 <h2>What Is A Tankless Water Heater?</h2>
                                 <p>Most traditional water heaters maintain a large amount of water at a constant heated
@@ -35,14 +31,7 @@
                                     your home.</p>
 
                                 <h2>Endless Hot Water</h2>
-                                <p>A tankless water heater is able to heat water on demand, the hot water never runs
-                                    out. Tankless systems are usually good solutions for homes with a tub or spa or
-                                    pool. Especially large families, or bigger homes with higher hot water demands. If
-                                    you currently have a 40-gallon or higher-gallon tank and plan to upgrade, we
-                                    strongly suggest that you consider the Tankless Water Heater as an option. A service
-                                    technician from 911 Mechanical is happy to come to your home or business, provide an
-                                    inspection, and let you know the costs associated with the installation of a new
-                                    tankless water system.</p>
+                                <p>A tankless water heater is able to heat water on demand, the hot water never runs out. Tankless systems are usually good solutions for homes with a tub or spa or pool. Especially large families, or bigger homes with higher hot water demands. If you currently have a 40-gallon or higher-gallon tank and plan to upgrade, we strongly suggest that you consider the Tankless Water Heater as an option. A service technician from Ecofriendly is happy to come to your home or business, provide an inspection, and let you know the costs associated with the installation of a new tankless water system.</p>
                                 <p>Tankless water heaters offer a limitless supply of hot water when compared to the
                                     capacity of conventional tanked water heaters because with a traditional water
                                     heater, once you are out of hot water, you have to wait for the whole tank to

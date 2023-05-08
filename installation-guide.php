@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>911 Mechanical | Installation Guide</title>
+<title>Ecofriendly | Installation Guide</title>
 <?php include_once('menu.php') ?>
 </head>
 
@@ -15,7 +15,7 @@
                             <div class="col-sm-12">
 
                                 <h1>Installation Guide</h1>
-                                <p>At 911 Mechanical Heating and Cooling, we know that the decision to purchase new
+                                <p>At Ecofriendly Heating and Cooling, we know that the decision to purchase new
                                     heating
                                     and air conditioning equipment can be an intimidating and confusing process. We know
                                     that most home and business owners only make this decision a handful of times in

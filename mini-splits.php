@@ -1,8 +1,8 @@
 <?php include_once('header.php') ?>
-<title>911 Mechanical| Ductless Mini Split </title>
+<title>Ecofriendly| Ductless Mini Split </title>
 
 <meta name="description"
-    content="Ductless mini split heating and cooling systems are highly efficient heating and cooling systems that deliver warm or cool conditioned air directly into different rooms in your Michigan home, without the use of ducting " />
+content="Ductless mini split heating and cooling systems are highly efficient heating and cooling systems that deliver warm or cool conditioned air directly into different rooms in your Indiana home, without the use of ducting " />
 <?php include_once('menu.php') ?>
 </head>
 
@@ -25,11 +25,7 @@
 
                                         <h1>What is a ductless mini-split system?</h1>
 
-                                        <p>Ductless mini split heating and cooling systems are highly efficient heating
-                                            and cooling systems that deliver warm or cool conditioned air directly into
-                                            different rooms in your Michigan home, without the use of ducting. You may
-                                            also hear them called mini-split and multi-split heat pumps or ductless
-                                            mini-split air conditioning systems.
+                                        <p>Ductless mini split heating and cooling systems are highly efficient heating and cooling systems that deliver warm or cool conditioned air directly into different rooms in your Indiana home, without the use of ducting. You may also hear them called mini-split and multi-split heat pumps or ductless mini-split air conditioning systems.
                                         </p>
 
                                         <br>
@@ -121,7 +117,7 @@
 
                                         <p><strong>For more information on how you can save with the ductless mini split
                                                 heating and cooling system, contact the ductless mini split heating and
-                                                air conditioning experts at 911 Mechanical</strong></p>
+                                                air conditioning experts at Ecofriendly</strong></p>
 
                                         <br>
 

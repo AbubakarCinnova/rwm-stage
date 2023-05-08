@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>911 Mechanical | Radiant Heating </title>
+<title>Eco Friendly | Radiant Heating </title>
 
 <?php include_once('menu.php') ?>
 </head>
@@ -86,9 +86,7 @@
 
                                 <br> <br>
 
-                                <p><strong>When it comes to getting the best heating and cooling equipment or service,
-                                        the only
-                                        name you need to know is 911 Mechanical.</strong></p>
+                                <p><strong>When it comes to getting the best heating and cooling equipment or service, the only name you need to know is Ecofriendly.</strong></p>
 
 
                             </div>

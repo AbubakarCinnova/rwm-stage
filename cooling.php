@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>911 Mechanical | Cooling </title>
+<title>Ecofriendly | Cooling </title>
 
 <?php include_once('menu.php') ?>
 </head>
@@ -19,14 +19,13 @@
                             <div class="col-md-12">
 
 
-                                <p><strong>911 Mechanical will keep your home HVAC system running perfectly when you
+                                <p><strong>Ecofriendly will keep your home HVAC system running perfectly when you
                                         need it the most.</strong></p>
 
                                 <h2 class="cooling-pg-sec2-heading">Air Conditioner Repair Services</h2>
 
                                 <p>Is your air conditioning system not cooling your home or business well? Does your AC
-                                    central air unit need recharged or does not run at all? Whatever the issue, 911
-                                    Mechanical's friendly and expert technicians can quickly diagnose and repair your
+                                    central air unit need recharged or does not run at all? Whatever the issue, Ecofriendly's friendly and expert technicians can quickly diagnose and repair your
                                     air conditioning systems problems and we work on all brands and types of heating and
                                     cooling equipment.</p>
 
@@ -37,9 +36,9 @@
                                 <h2>Air Conditioner Maintenance</h2>
 
                                 <p>No one wants to be stuck in a hot home in the middle of a Michigan summer. With
-                                    expert air conditioning maintenance from 911 Mechanical, you can help to prevent the
+                                    expert air conditioning maintenance from Ecofriendly, you can help to prevent the
                                     breakdown of your home’s cooling system. Routine air conditioning maintenance can
-                                    prolong the life of your central air system while saving you money. 911 Mechanical
+                                    prolong the life of your central air system while saving you money. Ecofriendly
                                     offers maintenance plans to help your HVAC system make it through the summer without
                                     any problems!
                                 </p>
@@ -124,7 +123,7 @@
 
                                 <p><strong>When it comes to getting the best heating and cooling equipment or service,
                                         the only
-                                        name you need to know is 911 Mechanical.</strong> </p>
+                                        name you need to know is Ecofriendly.</strong> </p>
 
                                 <br>
 
