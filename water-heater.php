@@ -15,7 +15,7 @@
                             <div class="col-sm-12">
 
                                 <div class="inner-page-banner"><img
-                                        src="<?php echo $base_url; ?>/img/Ecofriendly Water Heaters.jpg"
+                                        src="<?php echo $base_url; ?>/img/911 Mechanical Water Heaters.jpg"
                                         alt="Water Heaters"></div>
 
                                 <h2>We offer expert services for both conventional tanked water heaters and tankless
