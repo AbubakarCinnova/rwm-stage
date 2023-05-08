@@ -19,29 +19,17 @@
                             <div class="col-md-12">
 
 
-                                <p><strong>Ecofriendly will keep your home HVAC system running perfectly when you
-                                        need it the most.</strong></p>
+                            <p><strong>Ecofriendly will keep your home HVAC system running perfectly when you need it the most.</strong></p> 
 
                                 <h2 class="cooling-pg-sec2-heading">Air Conditioner Repair Services</h2>
 
-                                <p>Is your air conditioning system not cooling your home or business well? Does your AC
-                                    central air unit need recharged or does not run at all? Whatever the issue, Ecofriendly's friendly and expert technicians can quickly diagnose and repair your
-                                    air conditioning systems problems and we work on all brands and types of heating and
-                                    cooling equipment.</p>
+                                <p>Is your air conditioning system not cooling your home or business well? Does your AC central air unit need recharged or does not run at all? Whatever the issue, Ecofriendly's expert and friendly technicians can quickly diagnose and repair your air conditioning systems problems and we work on all brands and types of heating and cooling equipment.</p>
 
                                 <br>
 
-
-
                                 <h2>Air Conditioner Maintenance</h2>
 
-                                <p>No one wants to be stuck in a hot home in the middle of a Michigan summer. With
-                                    expert air conditioning maintenance from Ecofriendly, you can help to prevent the
-                                    breakdown of your home’s cooling system. Routine air conditioning maintenance can
-                                    prolong the life of your central air system while saving you money. Ecofriendly
-                                    offers maintenance plans to help your HVAC system make it through the summer without
-                                    any problems!
-                                </p>
+                                 <p>No one wants to be stuck in a hot home in the middle of an Indiana summer. With expert air conditioning maintenance from Ecofriendly, you can help to prevent the breakdown of your home’s cooling system. Routine air conditioning maintenance can prolong the life of your central air system while saving you money. Ecofriendly offers maintenance plans to help your HVAC system make it through the summer without any problems!</p>
                                 <p>
                                     <a href="<?php echo $base_url; ?>//maintenance-plan.php">Learn More</a>
                                 </p>
@@ -53,14 +41,7 @@
 
                                 <h2>High-Efficiency Air Conditioning Systems that will Save You Money</h2>
 
-                                <p>Choosing the correct air conditioning system is an important decision for every
-                                    homeowner. Most often, making the right selection comes down to three factors:
-                                    efficiency, comfort, and budget. To find out which Lennox or Carrier model delivers
-                                    the best for your home, call us today for a free estimate and consultation. A 911
-                                    Mechanical comfort designer will schedule a visit to your home. The comfort advisor
-                                    will explain the heating and cooling systems available and suitable for your home
-                                    and lay out all the options to help you determine the best balance of comfort,
-                                    efficiency, and cost. </p>
+                                <p>Choosing the correct air conditioning system is an important decision for every homeowner. Most often, making the right selection comes down to three factors: efficiency, comfort, and budget. To find out which Lennox model delivers the best for your home, call us today for a free estimate and consultation. An Ecofriendly comfort designer will schedule a visit to your home. The comfort advisor will explain the heating and cooling systems available and suitable for your home and lay out all the options to help you determine the best balance of comfort, efficiency, and cost. </p>
                                 <p><a href="<?php echo $base_url; ?>//air-conditioners.php">Learn More</a></p>
 
                                 <h2>Ductless Mini Split</h2>
@@ -121,18 +102,9 @@
 
 
 
-                                <p><strong>When it comes to getting the best heating and cooling equipment or service,
-                                        the only
-                                        name you need to know is Ecofriendly.</strong> </p>
+                                <p><strong>When it comes to getting the best heating and cooling equipment or service, the only name you need to know is Ecofriendly.</strong> </p>
 
                                 <br>
-
-
-
-
-
-
-
 
 
 
