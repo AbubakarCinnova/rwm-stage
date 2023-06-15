@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>Ecofriendly| Ductless Mini Split </title>
+<title>Ecofriendly | Ductless Mini Split </title>
 
 <meta name="description"
 content="Ductless mini split heating and cooling systems are highly efficient heating and cooling systems that deliver warm or cool conditioned air directly into different rooms in your Indiana home, without the use of ducting " />
