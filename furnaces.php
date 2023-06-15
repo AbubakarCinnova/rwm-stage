@@ -1,7 +1,14 @@
 <?php include_once('header.php') ?>
-<title>911 Mechanical| Furnaces </title>
-<meta name="description"
-    content="You're researching online or have heard talk about variable speed furnaces, single-stage, two-stage, modulating gas furnaces, and AFUE ratings. Let us help you by explaining some of those furnace systems and related terms. " />
+<title>Ecofriendly Mechanical Heating and Cooling| Furnaces</title>
+<meta name="rating" content="general" />
+<meta name="revisit-after" content="3 days" />
+<meta name="robots" content="index, follow" />
+<meta name="classification"
+    content=" Furnace, Heating, gas furnace, Heating &amp; Air conditioning, modulating gas furnace, Lennox, Furnace, Bloomington, Indiana" />
+<meta name="resource-type" content="document" />
+<meta name="distribution" content="Global" />
+<meta name="location" content="USA, IN, Bloomington" />
+<meta name="author" content="RW" />
 <?php include_once('menu.php') ?>
 </head>
 
@@ -26,15 +33,15 @@
                                 <br>
                                 <br>
 
-                                <p>As a homeowner, one of the hardest decisions you'll have to make about your Furnace
-                                    is when it's time for a new heating system</p>
+                                <p>When you own a home, one of the most challenging choices you'll face regarding your
+                                    furnace is determining when it's necessary to replace your heating system. If you're
+                                    conducting online research or have come across discussions on variable speed
+                                    heating, single-stage, two-stage, and modulating gas valves, as well as AFUE
+                                    ratings, allow us to assist you by providing explanations for these furnace systems
+                                    and relevant terminology.</p>
 
-                                <p>If you're researching online or have heard talk about variable speed heating,
-                                    single-stage, two-stage, and modulating gas valves, and AFUE ratings, let us help
-                                    you by explaining some of those furnace systems and related terms.</p>
 
-
-                                <h2>Furnace Efficiency Rating AFUE </h2>
+                                <h2>Furnace Efficiency Rating AFUE</h2>
                                 <p>AFUE (annual fuel utilization efficiency) measures the efficiency of modern furnaces
                                     by comparing the furnace's annual heat output to its total fossil fuel consumption.
                                     A furnace with a 99 AFUE rating returns 99 cents of heat per dollar spent, while 1
@@ -58,7 +65,7 @@
                                 <p>A variable-speed furnace is a type of heating system that uses a variable-speed
                                     blower motor to adjust the airflow through the furnace. This allows the furnace to
                                     adjust the fan speed based on heating demand, resulting in better temperature
-                                    control, improved indoor air quality, and consistent temperature and reduces the
+                                    control, improved indoor air quality, and consistent temperature, and reduces the
                                     number of times the furnace has to cycle on and off. This makes it more energy
                                     efficient and cost-effective than traditional, fixed-speed furnaces.</p>
 
@@ -71,13 +78,14 @@
 
                                 <h2>Customized Heating Solutions
                                 </h2>
-                                <p>911 Mechanical Heating and Cooling offers customized home heating solutions that take
-                                    into account factors such as home size, design, climate, insulation, and occupants'
-                                    behavior to find the most affordable and energy-efficient option. They only
-                                    recommend products that meet their strict criteria and provide detailed
-                                    explanations, recommendations, and load calculations to ensure equipment is
-                                    correctly sized for the home. Their goal is to provide quality customer service and
-                                    build lasting relationships with customers.
+                                <p>At Ecofriendly Mechanical, we specialize in tailor-made home heating solutions that
+                                    consider various factors such as home size, design, climate, insulation, and
+                                    occupants' behavior. Our aim is to identify the most cost-effective and
+                                    energy-efficient option for your specific needs. We have stringent criteria for
+                                    recommending products and provide comprehensive explanations, recommendations, and
+                                    load calculations to ensure the equipment is appropriately sized for your home. Our
+                                    ultimate objective is to deliver exceptional customer service and establish enduring
+                                    relationships with our valued customers.
                                 </p>
 
 
@@ -128,7 +136,6 @@
                                     <li> Energy Star Rated</li>
                                     <li> Stages of Heating: Two Stages</li>
                                     <li>Steel Cabinet</li>
-                                    <li> SilentComfort Technology and Sound Absorbing Insulation</li>
                                     <li> Blower Motor: Variable Speed</li>
                                     <li> Enhanced Humidity Control</li>
                                     <li> Air Filter and Humidifier Compatible</li>
@@ -165,47 +172,15 @@
 
 
 
-                                <h1>Our Most Popular Carrier Furnaces
-                                </h1>
-                                <h2>Carrier Infinity® 98 Gas Furnace 59 MN7</h2>
-                                <ul>
-                                    <li>Up to 98.5% AFUE</li>
-                                    <li>Energy Star Rated</li>
-                                    <li>Fully Insulated Cabinet</li>
-                                    <li>Stages of Heating: Modulating</li>
-                                    <li>Variable Speed Motor</li>
-                                    <li>Air Filter and Humidifier Compatible</li>
-                                    <li>10-year parts limited warranty upon timely registration and lifetime heat
-                                        exchanger</li>
-                                    <li>limited warranty upon timely registration.</li>
-                                    <li>Tax Credit Eligible</li>
-                                </ul>
+                               
+                                <br>
 
+                                <p><strong>When it comes to getting the best heating and cooling equipment or service, the only name you need to know in the Bloomington, IN area is Ecofriendly Mechanical.</strong></p>
 
                                 <br>
 
-                                <h2>Carrier Performance™ 96 Gas Furnace 59TP6</h2>
-
-                                <ul>
-                                    <li>Up to 96.5% AFUE</li>
-                                    <li>Energy Star Rated</li>
-                                    <li>Fully Insulated Cabinet</li>
-                                    <li>Stages of Heating: Two Stage</li>
-                                    <li>Variable Speed Motor</li>
-                                    <li>Air Filter and Humidifier Compatible</li>
-                                    <li>10-year parts limited warranty upon timely registration and lifetime heat
-                                        exchanger</li>
-                                    <li>limited warranty upon timely registration.</li>
-                                </ul>
-
-                                <br>
-
-                                <p><strong>When it comes to getting the best heating and cooling equipment or service,
-                                        the only name you need to know is 911 Mechanical.</strong></p>
-
-                                <br>
-
-                                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request Quote</a>
+                                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request
+                                    Quote</a>
                             </div>
 
 
