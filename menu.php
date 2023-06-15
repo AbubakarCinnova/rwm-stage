@@ -110,9 +110,7 @@
         <li><a href="<?php echo $base_url ?>/service-area.php">Service Area</a></li>
 
         <li><a href="<?php echo $base_url ?>/financing.php" class="dropdown-toggle">Financing</a>
-          <ul class="dropdown-menu">
-            <li><a href="<?php echo $base_url ?>/premier-hvac.php">Premier HVAC</a></li>
-          </ul>
+         
         </li>
 
         <li><a href="<?php echo $base_url ?>/specials.php">Specials</a></li>
