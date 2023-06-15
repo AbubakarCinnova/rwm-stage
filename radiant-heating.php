@@ -74,8 +74,6 @@
                                 a smart thermostat, allowing you to regulate the desired level of warmth in your living
                                 spaces.</p>
 
-
-                                <br>
                                 <br>
 
                                 <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request Quote </a>
