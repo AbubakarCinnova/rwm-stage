@@ -22,7 +22,7 @@
                     style="border-bottom-right-radius: 10px !important; border-bottom-left-radius: 10px !important; margin-bottom: 20px; padding-top: 20px;">
                     <div class="  content-area">
                         <div class="row">
-                            <p><img src="<?php echo $base_url ?>/img/lennox-ac (1).png" class="img-responsive">
+                            <p><img src="<?php echo $base_url ?>/img/lennox-ac (1).png" class="img-responsive" style="width: 70px;">
                             </p>
                             <div class="col-sm-12">
 
@@ -203,7 +203,7 @@
 
                                 <a href="https://www.true-comfort.com/request-quote.php" class="btn btn-warning">Request
                                     Quote </a>
-                                    
+
                             </div>
 
 
