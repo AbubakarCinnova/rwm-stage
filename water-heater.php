@@ -1,5 +1,13 @@
 <?php include_once('header.php') ?>
-<title>Water Heater | Ecofriendly Heating and Cooling</title>
+<title>Ecofriendly Mechanical Heating and Cooling| Tankless Water Heater</title>
+<meta name="rating" content="general" />
+<meta name="revisit-after" content="3 days" />
+<meta name="robots" content="index, follow" />
+<meta name="classification" content=" water heater, tankless water heater, Bloomington, Indiana" />
+<meta name="resource-type" content="document" />
+<meta name="distribution" content="Global" />
+<meta name="location" content="USA, IN, Bloomington" />
+<meta name="author" content="RW" />
 <?php include_once('menu.php') ?>
 </head>
 
@@ -15,34 +23,26 @@
                             <div class="col-sm-12">
 
                                 <div class="inner-page-banner"><img
-                                        src="<?php echo $base_url; ?>/img/911 Mechanical Water Heaters.jpg"
+                                        src="<?php echo $base_url; ?>/img/local water heater-1 (2).jpg"
                                         alt="Water Heaters"></div>
 
-                                <h2>We offer expert services for both conventional tanked water heaters and tankless
-                                    water heaters</h2>
-                                    <p>When it comes to your water heater, you need an expert to help you ensure everything is running correctly and efficiently. Whether you’re replacing an existing conventional tanked water heater or a tankless water heater. Ecofriendly is the company for you. We will match you with a water heater that has the capacity, energy efficiency, and price to meet all your hot water needs.</p>
+                                <p><strong>We provide professional services for both traditional tanked water heaters and tankless water heaters in the Bloomington area.</strong></p>
+                                <p>When it comes to your water heater, it's essential to rely on an expert to ensure optimal performance and efficiency. Whether you're considering the replacement of a traditional tanked water heater or exploring the option of a tankless water heater, Ecofriendly Mechanical is the ideal company for you. We specialize in matching you with a water heater that perfectly aligns with your hot water requirements, offering the right capacity, energy efficiency, and price to meet your needs.</p>
 
                                 <h2>What Is A Tankless Water Heater?</h2>
-                                <p>Most traditional water heaters maintain a large amount of water at a constant heated
-                                    temperature stored in a holding tank. This consumes a great deal of energy during
-                                    periods of time when you don't need hot water. A tankless water heater only heats
-                                    water when you need it. Since it only consumes energy when being actively used, it
-                                    saves you on your home energy costs and is an environmentally friendly option for
-                                    your home.</p>
+                                <p>Conventional water heaters typically store a significant volume of water at a consistently heated temperature in a storage tank. This results in high energy consumption, particularly during periods when hot water isn't required. On the other hand, a tankless water heater heats water on demand, providing hot water only when needed. By operating solely during active use, it effectively reduces energy consumption, leading to cost savings on home energy expenses. Additionally, opting for a tankless water heater is an environmentally friendly choice for your home.</p>
 
                                 <h2>Endless Hot Water</h2>
-                                <p>A tankless water heater is able to heat water on demand, the hot water never runs out. Tankless systems are usually good solutions for homes with a tub or spa or pool. Especially large families, or bigger homes with higher hot water demands. If you currently have a 40-gallon or higher-gallon tank and plan to upgrade, we strongly suggest that you consider the Tankless Water Heater as an option. A service technician from Ecofriendly is happy to come to your home or business, provide an inspection, and let you know the costs associated with the installation of a new tankless water system.</p>
-                                <p>Tankless water heaters offer a limitless supply of hot water when compared to the
-                                    capacity of conventional tanked water heaters because with a traditional water
-                                    heater, once you are out of hot water, you have to wait for the whole tank to
-                                    reheat. With a tankless water heater, the water is heated instantly when needed.
-                                    Tankless water heaters are sized based on flow rate and usage of hot water in a
-                                    home. Our friendly technicians will be able to size the perfect tankless for your
-                                    home so you will have endless hot water.</p>
+                                <p>A tankless water heater provides an endless supply of hot water as it heats water on demand. It is an excellent solution for homes with larger hot water needs, such as those with a tub, spa, or pool, as well as for large families or bigger homes. If you currently have a 40-gallon or larger tank and are considering an upgrade, we highly recommend considering a tankless water heater. Our team at Ecofriendly Mechanical can send a service technician to your home or business to conduct an inspection and provide you with detailed cost estimates for installing a new tankless water system.</p>
+                                <p>Compared to conventional tanked water heaters, tankless water heaters offer the advantage of never running out of hot water. With traditional water heaters, once you deplete the hot water supply, you must wait for the entire tank to reheat. In contrast, tankless water heaters heat water instantly as it is needed. The size of a tankless water heater is determined based on the flow rate and hot water usage in a home. Our knowledgeable technicians will ensure the perfect sizing of the tankless water heater for your home, guaranteeing an endless supply of hot water.</p>
 
                                 <br>
 
-                                <a href="<?php echo $base_url ?>/contact-us.php" class=" btn btn-warning">Contact us</a>
+                                <a href="<?php echo $base_url ?>/contact-us.php" class=" btn btn-warning">Request Quote</a>
+
+                                <br><br>
+                                
+                                <p><strong>When it comes to getting the best heating and cooling equipment or service, the only name you need to know in the Bloomington, IN area is Ecofriendly Mechanical.</strong></p>
                             </div>
 
 
