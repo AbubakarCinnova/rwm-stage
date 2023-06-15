@@ -92,7 +92,6 @@
 
         <li><a class="dropdown-toggle">Services</a>
           <ul class="dropdown-menu">
-            <li><a href="<?php echo $base_url ?>/installation-guide.php">Install Guide</a></li>
             <li><a href="<?php echo $base_url ?>/maintenance-plan.php">Maintenance Plan</a></li>
             <li><a href="<?php echo $base_url ?>/water-heater.php">Water Heaters</a></li>
           </ul>
