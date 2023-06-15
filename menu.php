@@ -95,19 +95,14 @@
             <li><a href="<?php echo $base_url ?>/installation-guide.php">Install Guide</a></li>
             <li><a href="<?php echo $base_url ?>/maintenance-plan.php">Maintenance Plan</a></li>
             <li><a href="<?php echo $base_url ?>/water-heater.php">Water Heaters</a></li>
-            <li><a href="<?php echo $base_url ?>/repair-services.php">Repair Services</a></li>
           </ul>
         </li>
 
         <li><a href="<?php echo $base_url ?>/commercial.php" class="dropdown-toggle">Commercial</a>
 
         <li><a href="<?php echo $base_url ?>/air-quality.php" class="dropdown-toggle">Air Quality</a>
-         <!--  <ul class="dropdown-menu">
-            <li><a href="<?php echo $base_url ?>/duct-cleaning.php">Duct Cleaning</a></li>
-          </ul> -->
         </li>
 
-        <!-- <li><a href="<?php echo $base_url ?>/service-area.php">Service Area</a></li> -->
 
         <li><a href="<?php echo $base_url ?>/financing.php" class="dropdown-toggle">Financing</a>
          
@@ -116,12 +111,6 @@
         <li><a href="<?php echo $base_url ?>/specials.php">Specials</a></li>
 
         <li><a href="<?php echo $base_url ?>/contact-us.php">Contact</a>
-
-      <!--     <ul class="dropdown-menu">
-
-            <li><a href="<?php echo $base_url ?>/request-estimate.php">Request Estimate</a></li>
-            <li><a href="<?php echo $base_url ?>/request-service.php">Request Service</a></li>
-          </ul> -->
         </li>
         </ul>
 
