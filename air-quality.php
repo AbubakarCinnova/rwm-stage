@@ -44,9 +44,7 @@
 
                                         <br>
 
-                                        <p>We offer a full line of Lennox indoor air quality products, such as whole
-                                            home air filtration systems, humidifiers, and UV germicidal lights, as well
-                                            as duct repair and replacement and duct cleaning.</p>
+                                        <p>We offer a full line of Lennox indoor air quality products, such as whole home air filtration systems, humidifiers, and UV germicidal lights, as well as duct repair and replacement.</p>
 
                                         <br>
 
