@@ -40,7 +40,7 @@
 
                                 <a href="<?php echo $base_url ?>/contact-us.php" class=" btn btn-warning">Request Quote</a>
 
-                                <br><br>
+                                <br><br><br>
 
                                 <p><strong>When it comes to getting the best heating and cooling equipment or service, the only name you need to know in the Bloomington, IN area is Ecofriendly Mechanical.</strong></p>
                             </div>
