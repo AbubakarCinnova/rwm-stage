@@ -2146,7 +2146,7 @@ textarea {
 .main-footer {
   padding-top: 35px;
   padding-bottom: 35px;
-  background: #181818;
+  background: #000000;
 }
 
 .main-footer p {
@@ -2540,7 +2540,7 @@ textarea {
     box-shadow: none !important;
   }
   .navbar-nav > li > .dropdown-menu {
-    background: #43928a  !important;
+    background: #43928a !important;
     text-shadow: none !important;
     margin-bottom: 10px;
   }
@@ -3073,7 +3073,6 @@ strong {
   .carousel-inner {
     min-height: 105px;
   }
-
 }
 /* .carousel-inner {
   width: 100%;
@@ -3094,7 +3093,7 @@ strong {
   .install-pg-img {
     width: 100%;
   }
-  .dropdown-menu li{
+  .dropdown-menu li {
     padding-left: 20px;
   }
 }
@@ -3140,7 +3139,7 @@ strong {
   align-items: center;
 }
 
-.slider-space{
+.slider-space {
   padding-top: 50px;
   padding-bottom: 50px;
 }
