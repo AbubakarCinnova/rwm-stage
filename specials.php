@@ -17,7 +17,7 @@
                                 <img src="<?php echo $base_url ?>/img/eco_20OFF_6x425-1ps (1).jpg" alt="ad" class="img-responsive">
                             </div>
                             <div class="col-md-6">
-                                <img src="<?php echo $base_url ?>/img/eco_CONDEMNED_DSYSTEMS-1800X1275-1ps (1)" alt="ad" class="img-responsive">
+                                <img src="<?php echo $base_url ?>/img/eco_CONDEMNED_DSYSTEMS-1800X1275-1ps (1).jpg" alt="ad" class="img-responsive">
                             </div>
                             <div class="col-md-6">
                                 <img src="<?php echo $base_url ?>/img/eco_Inflation Reduction Act-1ps (1).jpg" alt="ad" class="img-responsive">
