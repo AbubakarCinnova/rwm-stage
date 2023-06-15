@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>911 Mechanical | Heating</title>
+<title>Ecofriendly Mechanical Heating and Cooling | Financing</title>
 <?php include_once('menu.php') ?>
 </head>
 
@@ -24,14 +24,11 @@
                                     household. That's why we offer flexible financing options.</p>
                                 <br>
                                 <div><a
-                                        href="https://apply.svcfin.com/home/dealerAuthentication?id=4005623148&key=1742219857"><img
+                                        href="https://apply.svcfin.com/home/dealerAuthentication?id=400501402&key=1742219857"><img
                                             src="<?php echo $base_url ?>/img/service-finance.png" alt=""
                                             class="mobile-img"></a></div>
                                 <br>
-                                <div><img src="<?php echo $base_url ?>/img/911 authorized_contractor-1 (3).jpg" alt=""
-                                        class="mobile-img">
-                                </div>
-                                <br>
+                             
 
                                 <p>Financing is subject to credit approval.</p>
 
