@@ -1,5 +1,14 @@
 <?php include_once('header.php') ?>
-<title>911 Mechanical | Air Conditioners </title>
+<title>Ecofriendly Mechanical Heating and Cooling| AC Products</title>
+<meta name="rating" content="general" />
+<meta name="revisit-after" content="3 days" />
+<meta name="robots" content="index, follow" />
+<meta name="classification"
+    content=" Furnace, Heating, Cooling, Heating &amp; Air conditioning, Heating &amp; Cooling, Air conditioning, Furnace, HVAC, Bloomington, Indiana" />
+<meta name="resource-type" content="document" />
+<meta name="distribution" content="Global" />
+<meta name="location" content="USA, IN, Bloomington" />
+<meta name="author" content="RW" />
 
 <?php include_once('menu.php') ?>
 </head>
@@ -17,73 +26,78 @@
                             </p>
                             <div class="col-sm-12">
 
-                                <h2>Is it time for a new air conditioner?</h2>
+                                <h2>Is it the Right Time to Replace Your Air Conditioner?</h2>
 
-                                <p>When summer temperatures and humidity arrive in Michigan, you need an air conditioner
-                                    that’s ready to perform to your expectations. If your current central air system
-                                    isn’t up to the task, it’s time to upgrade. 911 Mechanical installs advanced,
-                                    affordable, energy-efficient, and high-performance air conditioners and cooling
-                                    systems for both homes and businesses.</p>
+                                <p>When the hot and humid summer weather hits Indiana, you want an air conditioner that
+                                    can meet your cooling needs. If your current central air system isn't cutting it
+                                    anymore, it might be time to consider an upgrade. Ecofriendly Mechanical offers
+                                    installation services for top-of-the-line air conditioners and cooling systems that
+                                    are not only advanced and high-performing but also affordable and energy-efficient.
+                                    Whether it's for your home or business, we have the perfect solution for your
+                                    cooling needs.</p>
                                 <br>
-                                <p>Our comfort designers will tailor your needs to the perfect-sized system for your
-                                    home or business. We are committed to giving our customers the air conditioning
-                                    solution that is right for them at fair prices.
-
-                                </p>
-
+                                <p>Our team of comfort designers will customize the ideal-sized system to meet your
+                                    specific needs for your home or business. We are dedicated to providing our
+                                    customers with the air conditioning solution that suits them best, all at reasonable
+                                    and competitive prices.</p>
 
 
-                                <h2>So What Does the SEER Rating of an AC system Mean?</h2>
 
-                                <p>SEER stands for "Seasonal Energy Efficiency Ratio," and it is a measure of the
-                                    cooling output of an air conditioning system over a typical cooling season, divided
-                                    by the amount of energy consumed in watt-hours.
-                                    season.</p>
+                                <h2>What Does the SEER Rating of an AC System Mean in Simple Words?</h2>
+
+                                <p>The SEER rating of an AC system tells you how efficiently it cools your space. It's
+                                    like a measure of its energy-saving capabilities. The higher the SEER rating, the
+                                    more energy-efficient the AC system is, which means it can cool your home
+                                    effectively while using less electricity. So, a higher SEER rating is generally
+                                    better because it can save you money on your energy bills.</p>
                                 <br>
 
 
                                 <h2>Variable-Capacity AC Compressor</h2>
 
-                                <p>The Variable-capacity compressor also called Variable Speed is currently our most
-                                    efficient and quietest option. It can operate at various speeds depending on the
-                                    cooling requirements, ranging from 35-100%. Compared to two-stage systems, it offers
-                                    a wider range of speeds, enabling the air conditioning to maintain lower speeds for
-                                    longer durations while providing the option for higher speeds when the outdoor
-                                    temperature rises. As a result, variable-speed AC systems run continuously without
-                                    frequent on/off cycles and only at the required speed to keep you comfortable,
-                                    making them the most energy-efficient among the three types of AC systems.</p>
+                                <p>Our Variable-capacity compressor, also known as Variable Speed, is the ultimate
+                                    choice in terms of efficiency and noise reduction. It has the ability to operate at
+                                    different speeds, ranging from 35-100%, depending on the cooling needs. Unlike
+                                    two-stage systems, it offers a wider range of speeds, allowing the air conditioner
+                                    to maintain lower speeds for extended periods while still having the option to
+                                    increase to higher speeds when the outdoor temperature climbs. This means that
+                                    variable-speed AC systems run continuously without frequent on/off cycles and only
+                                    operate at the necessary speed to keep you comfortable. As a result, they are the
+                                    most energy-efficient option among the three types of AC systems.</p>
 
 
                                 <h2>Two-Stage / Multi Stage AC Compressor</h2>
-                                <p>The two-stage AC compressor operates at two levels: high for extremely hot summer
-                                    days and low for milder summer days. With a two-stage AC unit, you essentially get
-                                    two units for the price of one. On days with moderate temperatures, the compressor
-                                    initially runs at 70%, and if it fails to cool the house to the desired level, it
-                                    moves to 100%. Since the low setting is adequate for cooling homes 80% of the time,
-                                    a two-stage unit operates for more extended periods, resulting in a more uniform
+                                <p>The two-stage AC compressor offers two operating levels: high for extremely hot
+                                    summer days and low for milder summer days. Essentially, it provides the benefits of
+                                    having two units in one. On days when the temperature is moderate, the compressor
+                                    initially runs at 70%. If it doesn't cool the house to the desired level, it then
+                                    switches to 100%. Since the low setting is sufficient for cooling homes about 80% of
+                                    the time, a two-stage unit runs for longer periods, resulting in a more consistent
                                     indoor air temperature. Compared to a single-stage compressor, the two-stage
                                     compressor is more efficient because it doesn't cycle on and off as frequently,
-                                    reducing wear and tear. Moreover, the two-stage system removes twice as much
-                                    humidity as the single-stage system because it operates at the lower level for an
-                                    extended period.</p>
+                                    reducing wear and tear. Additionally, the two-stage system is capable of removing
+                                    twice as much humidity as the single-stage system since it operates at the lower
+                                    level for extended durations.</p>
 
                                 <h2>Single-Stage AC Compressor</h2>
-                                <p>A single-stage AC compressor functions at a constant full-cold speed, with the
-                                    thermostat controlling the home's temperature by turning the AC system and
-                                    compressor on and off. In Michigan, most homes with central air conditioning use a
-                                    single-stage compressor, which has been the standard for several decades. The latest
-                                    single-stage models feature cutting-edge technology, making them considerably more
-                                    energy-efficient than their older counterparts, which had much lower SEER ratings.
+                                <p>A single-stage AC compressor operates at a consistent full-cold speed, with the
+                                    thermostat regulating the home's temperature by turning the AC system and compressor
+                                    on and off. In Indiana, the majority of homes with central air conditioning utilize
+                                    a single-stage compressor, which has been the norm for many years. The latest
+                                    single-stage models incorporate advanced technology, resulting in significantly
+                                    improved energy efficiency compared to older models with lower SEER ratings.
                                 </p>
 
                                 <h2>Customized Heating Solutions</h2>
-                                <p>911 Mechanical Heating and Cooling offers customized home comfort solutions that take
-                                    into account factors such as home size, design, climate, insulation, and occupants'
-                                    behavior to find the most affordable and energy-efficient option. They only
-                                    recommend products that meet their strict criteria and provide detailed
-                                    explanations, recommendations, and load calculations to ensure equipment is
-                                    correctly sized for the home. Their goal is to provide quality customer service and
-                                    build lasting relationships with customers.</p>
+                                <p>At Ecofriendly Heating and Cooling, we provide personalized home comfort solutions
+                                    tailored to your specific needs. We take into consideration various factors such as
+                                    the size and design of your home, the insulation in your home, and even the behavior
+                                    of the occupants. Our aim is to find the most affordable and energy-efficient option
+                                    for you. We only recommend products that meet our stringent criteria, and we provide
+                                    thorough explanations, recommendations, and load calculations to ensure that the
+                                    equipment is correctly sized for your home. Our goal is to deliver excellent
+                                    customer service and establish long-lasting relationships with our valued customers.
+                                </p>
 
 
                                 <h1>Our Most Popular Lennox Air Conditioners</h1>
@@ -107,7 +121,7 @@
 
                                     <li>R-410A refrigerant</li>
 
-                                    <li>Tax Credit Eligible: Yes</li>
+                                    <li>Tax Credit Eligible</li>
 
                                     <li>iComfort -enabled technology</li>
 
@@ -127,12 +141,11 @@
                                     <li>Sound Level As low as 72 dBA</li>
                                     <li>PermaGuard Cabinet and SmartHinge Louver Design</li>
                                     <li>R-410A refrigerant</li>
-                                    <li>Tax Credit Eligible: Yes</li>
+                                    <li>Tax Credit Eligible</li>
                                     <li>iComfort -enabled technology</li>
                                     <li>Elite models come with a 10-Year Limited Warranty on compressors and a 5-Year
                                         Limited Warranty on covered components. A 10-Year Extended Limited Warranty is
-                                        available
-                                        with product registration.</li>
+                                        available with product registration.</li>
                                 </ul>
 
 
@@ -149,62 +162,35 @@
                                     <li>Sound Level As low as 75 dBA</li>
                                     <li>PermaGuard Cabinet</li>
                                     <li>R-410A refrigerant</li>
-                                    <li>Tax Credit Eligible: No</li>
                                     <li> On-board Diagnostics</li>
                                     <li> 5-Year Limited Warranty on covered components including compressor. This
-                                        product may be
-                                        eligible for valuable 10-Year Limited Extended Warranty coverage with product
-                                        registration.</li>
+                                        product may be eligible for valuable 10-Year Limited Extended Warranty coverage
+                                        with product registration.</li>
                                 </ul>
 
 
                                 <br>
 
 
-                                <h2>LENNOX MODEL EL16XC1</h2>
-                                <p> High-Efficiency Air Conditioner</p>
+                                <h2>LENNOX MODEL EL17XC1</h2>
+                                <p> Mid-efficiency, single-stage air conditioner</p>
                                 <ul>
 
-                                    <li> 17 SEER</li>
+                                    <li>SEER up to 18.6</li>
+                                    <li>SEER2 up to 17.4</li>
                                     <li>Stages of Cooling Single Stage</li>
-                                    <li>ENERGY STAR®</li>
-                                    <li>Sound Level As low as 71 dBA</li>
-                                    <li> PermaGuard Cabinet and SmartHinge Louver Design</li>
-                                    <li>R-410A refrigerant</li>
-                                    <li> Tax Credit Eligible: Yes</li>
-                                    <li>Elite models come with a 10-Year Limited Warranty on compressors and a 5-Year
-                                        Limited
-                                        Warranty on covered components. A 10-Year Extended Limited Warranty is available
-                                        with
-                                        product registration.</li>
-                                </ul>
-
-                                <h1>Our Most Popular Carrier Air Conditioners</h1>
-                                <h2>Carrier Infinity® 26 Air Conditioner 24VNA6
-                                    with Greenspeed® Intelligence</h2>
-                                <ul>
-                                    <li> Stages of Cooling: Variable-Speed</li>
-                                    <li>Up to 24 SEER2</li>
-                                    <li> SEER2 Up to 25.8</li>
-                                    <li>ENERGY STAR®</li>
-                                    <li> Sound Level As low as 51 dBA</li>
-                                    <li> Silencer System II Design with Compressor Sound Blanket</li>
-                                    <li>Tax Credit Eligible:</li>
-                                    <li>10-year parts† 10-year unit replacement (24VNA6 compressor failure only)</li>
-                                </ul>
-                                <br>
-                                <h2>Carrier Performance™ 16 Central Air Conditioner 24ACC6</h2>
-                                <ul>
-                                    <li>Stages of Cooling: Singler Stage</li>
-                                    <li>Up to 17 SEER</li>
                                     <li>Sound Level As low as 72 dBA</li>
-                                    <li>Compressor Sound Blanket</li>
-                                    <li>10-year parts†</li>
+                                    <li>PermaGuard Cabinet and SmartHinge Louver Design</li>
+                                    <li>R-410A refrigerant</li>
+                                    <li>Elite models come with a 10-Year Limited Warranty on compressors and a 5-Year
+                                        Limited Warranty on covered components. A 10-Year Extended Limited Warranty is
+                                        available with product registration.</li>
                                 </ul>
 
+                                
+
                                 <br>
-                                <p><strong>When it comes to getting the best heating and cooling equipment or service,
-                                        the only name you need to know is 911 Mechanical.</strong>
+                                <p><strong>When it comes to getting the best heating and cooling equipment or service, the only name you need to know in the Bloomington, IN area is Ecofriendly Mechanical.</strong>
                                 </p>
 
 
@@ -217,15 +203,7 @@
 
                                 <a href="https://www.true-comfort.com/request-quote.php" class="btn btn-warning">Request
                                     Quote </a>
-
-                                <br><br>
-
-                                <p>† Upon timely registration. The warranty period is five years if not registered
-                                    within 90 days of installation except in jurisdictions where warranty benefits
-                                    cannot be conditioned upon registration. See the limited warranty certificate for
-                                    complete details and restrictions. </p>
-
-
+                                    
                             </div>
 
 
