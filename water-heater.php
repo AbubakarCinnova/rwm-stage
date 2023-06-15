@@ -25,7 +25,7 @@
                                 <div class="inner-page-banner"><img
                                         src="<?php echo $base_url; ?>/img/local water heater-1 (2).jpg"
                                         alt="Water Heaters"></div>
-
+                                <br>
                                 <p><strong>We provide professional services for both traditional tanked water heaters and tankless water heaters in the Bloomington area.</strong></p>
                                 <p>When it comes to your water heater, it's essential to rely on an expert to ensure optimal performance and efficiency. Whether you're considering the replacement of a traditional tanked water heater or exploring the option of a tankless water heater, Ecofriendly Mechanical is the ideal company for you. We specialize in matching you with a water heater that perfectly aligns with your hot water requirements, offering the right capacity, energy efficiency, and price to meet your needs.</p>
 
@@ -41,7 +41,7 @@
                                 <a href="<?php echo $base_url ?>/contact-us.php" class=" btn btn-warning">Request Quote</a>
 
                                 <br><br>
-                                
+
                                 <p><strong>When it comes to getting the best heating and cooling equipment or service, the only name you need to know in the Bloomington, IN area is Ecofriendly Mechanical.</strong></p>
                             </div>
 
