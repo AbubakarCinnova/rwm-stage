@@ -15,7 +15,7 @@
                         <div class="row">
                           <div class="col-md-12">
                             
-                          <img src="<?php echo $base_url ?>/geothermal-1 (1).jpg" alt="waterfurnace banner" style="width:100%;">
+                          <img src="<?php echo $base_url ?>/img/geothermal-1 (1).jpg" alt="waterfurnace banner" style="width:100%;">
                                 <h2>HOW GEOTHERMAL HEATING AND COOLING WORKS FOR YOUR HOME!</h2>
                                 <p>Geothermal heating and cooling systems use the natural heat stored in the ground to
                                     regulate the temperature in your home. Here's a more detailed explanation of how it
@@ -67,7 +67,7 @@
                                     makes geothermal systems a more environmentally friendly and cost-effective solution
                                     for heating and cooling your home.</p>
 
-                                <img src="<?php echo $base_url ?>/waterfurnace banner.jpg" alt="loop banner" class="img-responsive">
+                                <img src="<?php echo $base_url ?>/img/waterfurnace banner.jpg" alt="loop banner" class="img-responsive">
 
                                 <br>
 
