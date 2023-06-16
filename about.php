@@ -13,9 +13,9 @@
                     <div class="  content-area">
                         <div class="row">
                             <div class="col-sm-12">
-                                <p class="cooling-page-banner"><img src="<?php echo $base_url ?>/img/ECOFRIENDLY1119_23 (1).jfif" alt=""
-                                        ></p>
+                                
                                 <h1>About Us</h1>
+                                <p class="cooling-page-banner"><img src="<?php echo $base_url ?>/img/ECOFRIENDLY1119_23 (1).jfif" alt=""></p>
                                 <p><strong>Andy Hardisty's Ecofriendly Mechanical: Leading the Way in Energy-Efficient
                                         HVAC Solutions</strong></p>
                                 <p>With a wealth of experience spanning 25 years, Ecofriendly Mechanical has emerged as
