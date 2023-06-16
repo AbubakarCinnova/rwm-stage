@@ -277,65 +277,25 @@
 
     <div class="clearfix"></div>
 <div class="full-width  clearfix  slider-space">
-  <h2 class="text-center">We Only Partner With The Best !</h2>
+  <h2 class="text-center">We Only Offer The Best !</h2>
   <br>
   <div class="container mt-sm mb-sm">
     <div class="row ">
       <div class="owl-carousel owl-theme partner-logo">
         <div class="item">
-          <img src="<?php echo $base_url; ?>/img/BogenCommunications_blk.png" alt="" class="img-responsive">
+          <img src="<?php echo $base_url; ?>/img/water furnace (1).png" alt="" class="img-responsive">
         </div>
         <div class="item">
-          <img src="<?php echo $base_url; ?>/img/STANLEY Healthcare logo.jpg" alt="" class="img-responsive">
+          <img src="<?php echo $base_url; ?>/img/Lochinvar-Logo.jpg (1).png" alt="" class="img-responsive">
         </div>
         <div class="item">
-          <img src="<?php echo $base_url; ?>/img/Mircom-Authorized-Dealer_RGB.png" alt=""
+          <img src="<?php echo $base_url; ?>/img/carrier (1).png" alt=""
             class="img-responsive">
         </div>
         <div class="item">
-          <img src="<?php echo $base_url; ?>/img/RITTAL_RGB_W.png" alt="" class="img-responsive">
+          <img src="<?php echo $base_url; ?>/img/lennox (1).png" alt="" class="img-responsive">
         </div>
-        <div class="item">
-          <img src="<?php echo $base_url; ?>/img/Milestone-Logo-(Clear-Blue).png" alt=""
-            class="img-responsive">
-        </div>
-        <div class="item">
-          <img src="<?php echo $base_url; ?>/img/status-logo.png" alt="" class="img-responsive">
-        </div>
-        <div class="item">
-          <img src="<?php echo $base_url; ?>/img/TekTone2.png" alt="" class="img-responsive">
-        </div>
-        <div class="item">
-          <img src="<?php echo $base_url; ?>/img/ver_logo_tm_sm_hrz_rgb_blk.png" alt=""
-            class="img-responsive">
-        </div>
-        <div class="item">
-          <img src="<?php echo $base_url; ?>/img/AccutechLogo.png" alt="" class="img-responsive">
-        </div>
-        <div class="item">
-          <img src="<?php echo $base_url; ?>/img/hanwha-logo.png" alt="" class="img-responsive">
-        </div>
-        <div class="item">
-          <img src="<?php echo $base_url; ?>/img/honeywell-logo.png" alt="" class="img-responsive">
-        </div>
-        <div class="item">
-          <img src="<?php echo $base_url; ?>/img/identiv-logo.png" alt="" class="img-responsive">
-        </div>
-        <div class="item">
-          <img src="<?php echo $base_url; ?>/img/Zenitel_logo.png" alt="" class="img-responsive">
-        </div>
-        <div class="item">
-          <img src="<?php echo $base_url; ?>/img/alertus.png" alt="" class="img-responsive">
-        </div>
-        <div class="item">
-          <img src="<?php echo $base_url; ?>/img/bosch.png" alt="" class="img-responsive">
-        </div>
-        <div class="item">
-          <img src="<?php echo $base_url; ?>/img/seimans-logo.png" alt="" class="img-responsive">
-        </div>
-
       </div>
-    
     </div>
   </div>
 </div>
