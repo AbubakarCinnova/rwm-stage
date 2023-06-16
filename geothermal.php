@@ -67,7 +67,7 @@
                                     makes geothermal systems a more environmentally friendly and cost-effective solution
                                     for heating and cooling your home.</p>
 
-                               <p class="cooling-page-banner"><img src="<?php echo $base_url ?>/img/waterfurnace banner.jpg" alt="loop banner" ></p> 
+                               <p class="geothermal-banner"><img src="<?php echo $base_url ?>/img/waterfurnace banner.jpg" alt="loop banner" ></p> 
 
                                 <ul>
                                     <li>Horizontal Loop: Pipes are buried in a horizontal trench, circulating a heat

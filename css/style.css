@@ -3151,8 +3151,14 @@ strong {
 .cooling-page-banner img {
   width: 50%;
 }
+.geothermal-banner img {
+  width: 40%;
+}
 @media (max-width: 768px) {
   .cooling-page-banner img {
+    width: 100%;
+  }
+  .geothermal-banner img {
     width: 100%;
   }
 }
