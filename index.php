@@ -108,11 +108,11 @@
         </div>
         <div class="col-lg-2 col-sm-4">
           <div class="text-center blue-boxes">
-            <a href="<?php echo $base_url ?>/repair-services.php">
+            <a href="<?php echo $base_url ?>/geothermal.php">
               <div class="icon">
-                <img src="<?php echo $base_url; ?>/img/repair (1).jpeg" alt="" class="img-responsive">
+                <img src="<?php echo $base_url; ?>/img/AdobeStock_551492807-min.jpeg" alt="" class="img-responsive">
               </div>
-              <h4>Repair <br> Services </h4>
+              <h4>Geothermal </h4>
               <p> </p>
             </a>
           </div>
