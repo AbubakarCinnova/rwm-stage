@@ -12,8 +12,9 @@
       <div class="carousel-inner" role="listbox">
 
         <div class="item active">
-          <a href="<?php echo $base_url ?>/contact-us.php"><img src="<?php echo $base_url; ?>/img/b1.png" alt="first slide" width="100%"></a>
-          
+          <a href="<?php echo $base_url ?>/contact-us.php"><img src="<?php echo $base_url; ?>/img/b1.png"
+              alt="first slide" width="100%"></a>
+
         </div>
 
 
@@ -24,7 +25,8 @@
         </div>
 
         <div class="item">
-          <a href="<?php echo $base_url ?>/contact-us.php"> <img src="<?php echo $base_url; ?>/img/b2.png" alt="second slide" width="100%">
+          <a href="<?php echo $base_url ?>/contact-us.php"> <img src="<?php echo $base_url; ?>/img/b2.png"
+              alt="second slide" width="100%">
           </a>
         </div>
 
@@ -164,21 +166,35 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6">
-            <h2>Your Comfort Is Our Business</h2>
-            <p>911 Mechanical Heating and Cooling is the premier HVAC company in the southeast Michigan area. Since
-              1995,
-              we have been proudly serving the local community with our outstanding heating and air conditioning
-              services.
-              We are a family-owned and operated business that has built its reputation on high quality, value, and a
-              worry-free customer experience. Our NATE-certified HVAC technicians are at the top of their field and
-              continually receive training to improve their knowledge. From routine maintenance to emergency repairs to
-              quality installation of high-efficiency home comfort systems, give us a call today!</p>
+            <h2>Ecofriendly Mechanical Heating and Cooling: Your Trusted HVAC Experts in Bloomington, Indiana</h2>
 
+           <p>Ecofriendly Mechanical Heating and Cooling stands as the leading HVAC company in Bloomington, Indiana,
+            dedicated to eco-friendly practices. For over four decades, we have proudly served our local community,
+            delivering exceptional heating, HVAC, and air conditioning services. As a family-owned and operated
+            business, we have established a strong and respected reputation based on our unwavering commitment to
+            quality, value, and providing a hassle-free customer experience.</p> 
+
+
+
+           <p>Our team of NATE-certified HVAC technicians is unparalleled in their expertise and continually undergoes
+            training to enhance their knowledge and skills. Whether it's regular maintenance, urgent repairs, or the
+            installation of high-efficiency residential and commercial comfort systems, we are here to assist you. With
+            a single phone call, you can rely on us to meet all your heating and cooling needs.</p> 
+
+
+
+           <p>At Ecofriendly Mechanical Heating and Cooling, customer satisfaction is our ultimate goal. We prioritize our
+            customers above all else and strive to exceed their expectations. Our mission is to be the premier heating
+            contractor in the Bloomington area. Moreover, we back our services with the best warranties in the industry,
+            ensuring your complete peace of mind. Rest assured, when you choose us, your satisfaction is guaranteed.</p> 
 
 
           </div>
           <div class="col-md-6 iframe-wrap">
-          <iframe width="400" height="300" src="https://www.youtube.com/embed/yFSJz_fMVnc" title="Ecofriendly Bloomington" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="400" height="300" src="https://www.youtube.com/embed/yFSJz_fMVnc"
+              title="Ecofriendly Bloomington" frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen></iframe>
 
           </div>
         </div>
@@ -276,29 +292,28 @@
     </section>
 
     <div class="clearfix"></div>
-<div class="full-width  clearfix  slider-space">
-  <h2 class="text-center">We Only Offer The Best !</h2>
-  <br>
-  <div class="container mt-sm mb-sm">
-    <div class="row ">
-      <div class="owl-carousel owl-theme partner-logo">
-        <div class="item">
-          <img src="<?php echo $base_url; ?>/img/water furnace (1).png" alt="" class="img-responsive">
-        </div>
-        <div class="item">
-          <img src="<?php echo $base_url; ?>/img/Lochinvar-Logo.jpg (1).png" alt="" class="img-responsive">
-        </div>
-        <div class="item">
-          <img src="<?php echo $base_url; ?>/img/carrier (1).png" alt=""
-            class="img-responsive">
-        </div>
-        <div class="item">
-          <img src="<?php echo $base_url; ?>/img/lennox (1).png" alt="" class="img-responsive">
+    <div class="full-width  clearfix  slider-space">
+      <h2 class="text-center">We Only Offer The Best !</h2>
+      <br>
+      <div class="container mt-sm mb-sm">
+        <div class="row ">
+          <div class="owl-carousel owl-theme partner-logo">
+            <div class="item">
+              <img src="<?php echo $base_url; ?>/img/water furnace (1).png" alt="" class="img-responsive">
+            </div>
+            <div class="item">
+              <img src="<?php echo $base_url; ?>/img/Lochinvar-Logo.jpg (1).png" alt="" class="img-responsive">
+            </div>
+            <div class="item">
+              <img src="<?php echo $base_url; ?>/img/carrier (1).png" alt="" class="img-responsive">
+            </div>
+            <div class="item">
+              <img src="<?php echo $base_url; ?>/img/lennox (1).png" alt="" class="img-responsive">
+            </div>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-</div>
 
     <div class="clearfix"></div>
 
@@ -306,7 +321,8 @@
 
       <div class="container">
 
-        <h2 style="color: white;">Please call us at <a href="tel:+18123331223" style="color: #bebebe;">(812) 333-1223</a>
+        <h2 style="color: white;">Please call us at <a href="tel:+18123331223" style="color: #bebebe;">(812)
+            333-1223</a>
           To Make an Appointment.</h2>
 
       </div>
