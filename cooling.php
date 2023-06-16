@@ -13,8 +13,8 @@
                     style="border-bottom-right-radius: 10px !important; border-bottom-left-radius: 10px !important; margin-bottom: 20px; padding-top: 20px;">
                     <div class="  content-area">
                         <div class="row">
-                            <p><img src="<?php echo $base_url; ?>/img/needacrrepairs2-1 (1) (1).jpg"
-                                    class="cooling-page-banner"><br>
+                            <p class="cooling-page-banner"><img src="<?php echo $base_url; ?>/img/needacrrepairs2-1 (1) (1).jpg"
+                                    ><br>
                             </p>
                             <div class="col-md-12">
 

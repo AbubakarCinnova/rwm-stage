@@ -3145,10 +3145,13 @@ strong {
 }
 
 .cooling-page-banner {
+  text-align: center;
+}
+.cooling-page-banner img {
   width: 50%;
 }
 @media (max-width: 768px) {
-  .cooling-page-banner {
+  .cooling-page-banner img {
     width: 100%;
   }
 }
