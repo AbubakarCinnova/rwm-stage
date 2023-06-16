@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>911 Mechanical | Service Area </title>
+<title>Ecofriendly Mechanical | Service Area </title>
 
 <?php include_once('menu.php') ?>
 </head>
@@ -15,7 +15,7 @@
                         <div class="row">
                             <div class="col-lg-12">
 
-                                <h1>911 Mechanical Service Area</h1>
+                                <h1>Ecofriendly Mechanical Service Areas</h1>
 
                                 <div class="service-container">
                                     <div class="service-list margin-bottom-md">
