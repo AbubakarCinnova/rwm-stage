@@ -97,7 +97,9 @@
           </ul>
         </li>
 
-        <li><a href="<?php echo $base_url ?>/commercial.php" class="dropdown-toggle">Commercial</a>
+        <li><a href="<?php echo $base_url ?>/commercial.php" class="dropdown-toggle">Commercial</a></li>
+
+        <li><a href="<?php echo $base_url ?>/geothermal.php" class="dropdown-toggle">Geothermal</a></li>
 
         <li><a href="<?php echo $base_url ?>/air-quality.php" class="dropdown-toggle">Air Quality</a>
         </li>
