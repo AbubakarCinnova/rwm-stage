@@ -22,6 +22,15 @@
                                     trusted provider of advanced HVAC solutions. They are renowned for their
                                     groundbreaking equipment, expert installations, and sustainable design practices,
                                     making them synonymous with revolutionizing the HVAC field.</p>
+                               
+                            </div>
+
+                            <div class="col-md-6">
+                                <p ><img
+                                        src="<?php echo $base_url ?>/img/ECOFRIENDLY1119_23 (1).jfif" alt="" style="width:100%; margin-left: 15px; margin-bottom: 15px;;"></p>
+                            </div>
+
+                            <div class="col-md-12">
                                 <p>Ecofriendly Mechanical consistently sets the bar for innovation in HVAC. Their
                                     expertise in geothermal design, VRF systems, solar PV systems, state-of-the-art
                                     boilers, and high-efficiency heat pumps has propelled them to the forefront of the
@@ -35,16 +44,6 @@
                                     distinguishes him as a visionary. Clients rely on Andy and his team for their
                                     expertise in designing and implementing HVAC systems that minimize environmental
                                     impact while maximizing energy savings.</p>
-                               
-
-                            </div>
-
-                            <div class="col-md-6">
-                                <p class="cooling-page-banner"><img
-                                        src="<?php echo $base_url ?>/img/ECOFRIENDLY1119_23 (1).jfif" alt=""></p>
-                            </div>
-
-                            <div class="col-md-12">
                                 <p>What truly sets Ecofriendly Mechanical apart is its unwavering commitment to
                                     excellence in every aspect of its operations. Meticulous attention to detail and a
                                     focus on quality craftsmanship permeate every project the company undertakes. From
