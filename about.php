@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>911 Mechanical | About</title>
+<title>Ecofriendly Heating and Cooling | About us </title>
 <?php include_once('menu.php') ?>
 </head>
 
@@ -13,60 +13,53 @@
                     <div class="  content-area">
                         <div class="row">
                             <div class="col-sm-12">
-
-                                <h1>About</h1>
-                                <p>911 Mechanical Heating and Cooling has been a provider of heating, air conditioning,
-                                    and
-                                    water heater installation throughout the Metro Detroit area for over 23 years. With
-                                    over
-                                    30 + years of HVAC experience 911 Mechanical provides our customers with custom
-                                    options
-                                    to meet and exceed all their home or business HVAC needs.</p>
-                                <p>As a local Michigan-based family-owned and operated business that has been built on
-                                    high
-                                    quality, value, and a worry-free customer experience there is no project that our
-                                    team
-                                    of factory-trained employees can’t handle.</p>
-
-                                <h2> Why Choose 911 Mechanical Heating and Cooling</h2>
-                                <ul>
-                                    <li> No subcontractors</li>
-                                    <li> Up-Front Honest Pricing</li>
-                                    <li> Free In-Home Estimates</li>
-                                    <li> Flat-rate service calls</li>
-                                    <li> Real live customer service staff to answer all your phone calls and questions
-                                    </li>
-                                    <li> DTE and Consumers Energy Partnerships</li>
-                                </ul>
-
-
-
-                                <h2>Services</h2>
-                                <ul>
-                                    <li> Heating Services</li>
-                                    <li> Air Conditioning Services</li>
-                                    <li> Water Heater Services</li>
-                                    <li> Air Duct Cleaning Services</li>
-                                    <li> Humidifier Service</li>
-                                    <li> Indoor Air Quality Services</li>
-
-                                </ul>
-
-                                <h2>911 Mechanical is a proud supporter of:</h2>
-                                <ul>
-                                    <li> Firefighter and Police Benevolent Funds</li>
-                                    <li> Run the Plank Macomb</li>
-                                    <li> Life Remodeled</li>
-                                    <li> Children Cancer Research Fund</li>
-                                    <li> Local youth sports and community events</li>
-                                </ul>
-
-
-
-
-
-
-
+                                <p><img src="<?php echo $base_url ?>/img/ECOFRIENDLY1119_23 (1).jfif" alt=""
+                                        class="img-responsive"></p>
+                                <h1>About Us</h1>
+                                <p><strong>Andy Hardisty's Ecofriendly Mechanical: Leading the Way in Energy-Efficient
+                                        HVAC Solutions</strong></p>
+                                <p>With a wealth of experience spanning 25 years, Ecofriendly Mechanical has emerged as
+                                    a prominent player in the HVAC industry. Known for their innovative approach and
+                                    dedication to energy efficiency, this company has earned a strong reputation as a
+                                    trusted provider of advanced HVAC solutions. They are renowned for their
+                                    groundbreaking equipment, expert installations, and sustainable design practices,
+                                    making them synonymous with revolutionizing the HVAC field.</p>
+                                <p>Ecofriendly Mechanical consistently sets the bar for innovation in HVAC. Their
+                                    expertise in geothermal design, VRF systems, solar PV systems, state-of-the-art
+                                    boilers, and high-efficiency heat pumps has propelled them to the forefront of the
+                                    industry. Their unwavering commitment to technological advancements and
+                                    forward-thinking solutions ensures that clients receive the most efficient and
+                                    environmentally-friendly HVAC systems available.</p>
+                                <p>Recognized as a trusted expert in Bloomington and beyond, Andy Hardisty,
+                                    affectionately known as "The Green Geek," is at the helm of Ecofriendly Mechanical.
+                                    Andy's comprehensive understanding of eco-friendly HVAC practices, combined with a
+                                    dedication to staying up-to-date with the latest technological advancements,
+                                    distinguishes him as a visionary. Clients rely on Andy and his team for their
+                                    expertise in designing and implementing HVAC systems that minimize environmental
+                                    impact while maximizing energy savings.</p>
+                                <p>What truly sets Ecofriendly Mechanical apart is its unwavering commitment to
+                                    excellence in every aspect of its operations. Meticulous attention to detail and a
+                                    focus on quality craftsmanship permeate every project the company undertakes. From
+                                    the initial consultation to the final installation, Ecofriendly Mechanical
+                                    consistently delivers customized, energy-efficient HVAC systems that meet each
+                                    client's unique needs. Their track record of customer satisfaction and positive
+                                    testimonials further solidify their position as an industry leader.</p>
+                                <p>The team at Ecofriendly Mechanical doesn't rest on past achievements; they actively
+                                    shape the future of the HVAC field. Through ongoing research, collaborations with
+                                    industry experts, and embracing emerging technologies, they remain at the forefront
+                                    of the ever-evolving HVAC landscape. By continually raising the bar for energy
+                                    efficiency, Ecofriendly Mechanical sets new standards for sustainability and offers
+                                    a glimpse into the future of HVAC systems.</p>
+                                <p>Ecofriendly Mechanical has established itself as a trusted leader in the HVAC field,
+                                    deservedly earning a reputation for delivering cutting-edge solutions. With a focus
+                                    on innovation, expertise, and unwavering commitment to energy efficiency, this
+                                    company is set to remain at the forefront of the industry. As Andy and his team
+                                    continue to lead the way in energy-efficient HVAC systems, Ecofriendly Mechanical
+                                    will undoubtedly maintain its position as a visionary in the field for years to
+                                    come.</p>
+                                <p><strong>When it comes to getting the best heating and cooling equipment or service,
+                                        the only name you need to know in the Bloomington, IN area is Ecofriendly
+                                        Mechanical.</strong></p>
 
                             </div>
 
