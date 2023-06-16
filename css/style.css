@@ -3143,3 +3143,12 @@ strong {
   padding-top: 50px;
   padding-bottom: 50px;
 }
+
+.cooling-page-banner {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .cooling-page-banner {
+    width: 50%;
+  }
+}

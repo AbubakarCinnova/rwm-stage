@@ -14,7 +14,7 @@
                     <div class="  content-area">
                         <div class="row">
                             <p><img src="<?php echo $base_url; ?>/img/needacrrepairs2-1 (1) (1).jpg"
-                                    class="img-responsive"><br>
+                                    class="cooling-page-banner"><br>
                             </p>
                             <div class="col-md-12">
 
