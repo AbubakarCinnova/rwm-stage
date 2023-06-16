@@ -102,7 +102,7 @@
         <li><a href="<?php echo $base_url ?>/air-quality.php" class="dropdown-toggle">Air Quality</a>
         </li>
 
-
+        <li><a href="<?php echo $base_url ?>/service-area.php">Service Area</a></li>
         <li><a href="<?php echo $base_url ?>/financing.php" class="dropdown-toggle">Financing</a>
          
         </li>
