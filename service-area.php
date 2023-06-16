@@ -21,7 +21,7 @@
                                     <div class="service-list margin-bottom-md">
                                         <ul>
                                             <li><b>MONROE COUNTY</b></li>
-                                            <li><a href="<?php echo $base_url; ?>/service-area/bloomington.php">Bloomington</a> </li>
+                                            <li><a href="<?php echo $base_url; ?>/service-area/Bloomington-Indiana-heating-and-air-conditioning-repair.php">Bloomington</a> </li>
                                             <li>Lake Monroe</li>
                                             <li>Clear Creek</li>
                                             <li>Stanford</li>
