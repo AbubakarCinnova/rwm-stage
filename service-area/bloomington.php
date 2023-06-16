@@ -14,7 +14,9 @@
                     <div class="  content-area">
                         <div class="row">
                             <div class="col-lg-12">
-
+                            <img src="<?php echo $base_url; ?>/img/Bloomington_indiana-1.jpg" style="width:100%;">
+                            <br>
+                            
                             </div>
                         </div>
                     </div>
