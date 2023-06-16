@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>Ecofriendly | Specials </title>
+<title>Ecofriendly Mechanical | Geothermal </title>
 
 <?php include_once('menu.php') ?>
 </head>
