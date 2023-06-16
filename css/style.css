@@ -3145,10 +3145,10 @@ strong {
 }
 
 .cooling-page-banner {
-  width: 100%;
+  width: 50%;
 }
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   .cooling-page-banner {
-    width: 50%;
+    width: 100%;
   }
 }
