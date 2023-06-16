@@ -12,8 +12,7 @@
                     style="border-bottom-right-radius: 10px !important; border-bottom-left-radius: 10px !important; margin-bottom: 20px; margin-top:20px;">
                     <div class="  content-area">
                         <div class="row">
-                            <div class="col-sm-12">
-                                <p class="cooling-page-banner"><img src="<?php echo $base_url ?>/img/ECOFRIENDLY1119_23 (1).jfif" alt=""></p>
+                            <div class="col-md-6">
                                 <h1>About Us</h1>
                                 <p><strong>Andy Hardisty's Ecofriendly Mechanical: Leading the Way in Energy-Efficient
                                         HVAC Solutions</strong></p>
@@ -36,6 +35,16 @@
                                     distinguishes him as a visionary. Clients rely on Andy and his team for their
                                     expertise in designing and implementing HVAC systems that minimize environmental
                                     impact while maximizing energy savings.</p>
+                               
+
+                            </div>
+
+                            <div class="col-md-6">
+                                <p class="cooling-page-banner"><img
+                                        src="<?php echo $base_url ?>/img/ECOFRIENDLY1119_23 (1).jfif" alt=""></p>
+                            </div>
+
+                            <div class="col-md-12">
                                 <p>What truly sets Ecofriendly Mechanical apart is its unwavering commitment to
                                     excellence in every aspect of its operations. Meticulous attention to detail and a
                                     focus on quality craftsmanship permeate every project the company undertakes. From
@@ -59,7 +68,6 @@
                                 <p><strong>When it comes to getting the best heating and cooling equipment or service,
                                         the only name you need to know in the Bloomington, IN area is Ecofriendly
                                         Mechanical.</strong></p>
-
                             </div>
 
 
