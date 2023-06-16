@@ -1,6 +1,5 @@
 <?php include_once('../header.php') ?>
-title>Furnace Repair Bloomington, IN | AC Repair| HVAC Bloomington| Ecofriendly Mechanical Heating &amp; Cooling
-</title>
+<title>Furnace Repair Bloomington, IN | AC Repair| HVAC Bloomington| Ecofriendly Mechanical Heating & Cooling</title>
 
 <meta name="description"
     content="Since 1982, homeowners throughout the Bloomington, IN area, have come to trust Ecofriendly Mechanical with all their heating and cooling services. " />
