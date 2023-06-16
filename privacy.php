@@ -106,7 +106,7 @@
                                     acceptable means to protect your personal information from loss or theft, as well as
                                     unauthorized access, disclosure, copying, use or modification.</p>
 
-                                <h3>Cookie Policy for Ecofriendly Mechanical</h3>
+                                <h2>Cookie Policy for Ecofriendly Mechanical</h2>
                                 <h3>Cookies</h3>
                                 <p>We use cookies on our website. These are small text files stored on your computer. We
                                     use cookies so that we can offer you the best service possible. The data saved in
@@ -130,9 +130,9 @@
                                     you do this, you may not be able to use all functions of this website. Furthermore,
                                     you can prohibit Google from collecting and analyzing the cookie-generated data
                                     about your use of the website (including your IP address) by clicking <a
-                                        href="http://tools.google.com/dlpage/gaoptout?hl=en">here</a> or downloading and
+                                        href="https://tools.google.com/dlpage/gaoptout?hl=en">here</a> or downloading and
                                     installing the browser plugin available <a
-                                        href="http://tools.google.com/dlpage/gaoptout?hl=en">here</a>.</p>
+                                        href="https://tools.google.com/dlpage/gaoptout?hl=en">here</a>.</p>
                                 <p>If you visit our website using a mobile device (e.g. a smartphone or tablet), you can
                                     refuse the future use of Google Analytics via <a href="#">this link</a>. By
                                     activating the link, we will put a cookie in your browser, which signals to us that
@@ -151,7 +151,7 @@
                                     targeted product recommendations and advertising based on the user's interests.</p>
                                 <p>If you would prefer to not receive any targeted advertising, you can deactivate the
                                     use of cookies for these purposes through Google by visiting the website: <a
-                                        href="https://www.google.com/settings/ads/">https://www.google.com/settings/ads/</a>.
+                                        href="https://www.google.com/settings/ads/.%C2%A0">https://www.google.com/settings/ads/.%C2%A0</a>.
                                 </p>
                                 <p>Alternatively, users can opt out of the use of cookies by third-party providers by
                                     visiting the Network Advertising Initiative's deactivation website (<a
@@ -269,10 +269,8 @@
                                     on our site.</p>
                                 <p>However, if you are still looking for more information, you can contact us through
                                     one of our preferred contact methods:</p>
-                                <ul>
-                                    <li>Email: info@ecofriendlymechanical.com</li>
-                                    <li>Phone: +1-555-123456</li>
-                                </ul>
+                                    <p>Phone: (812) 333-1223</p>
+                                  
 
                             </div>
                         </div>
