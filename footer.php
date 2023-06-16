@@ -112,7 +112,7 @@
         $('.partner-logo').owlCarousel({
             loop: true,
             margin: 30,
-            autoPlay: 2000,
+            autoPlay: 4000,
             nav: true,
             items: 3,
             pagination: false,
