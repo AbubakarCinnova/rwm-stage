@@ -171,7 +171,7 @@ title>Furnace Repair Bloomington, IN | AC Repair| HVAC Bloomington| Ecofriendly 
                                 </ul>
                                 <br>
                                 <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning"> Contact Us </a>
-
+                                <br><br>
                                 <p><strong>When it comes to getting the best heating and cooling equipment or service, the only name you need to know in the Bloomington, IN area is Ecofriendly Mechanical. </strong></p>
 
 
