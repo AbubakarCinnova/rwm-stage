@@ -31,6 +31,8 @@
                                             <li><a href="<?php echo $base_url; ?>/service-area/Ellettsville-Indiana-heating-and-air-conditioning-repair.php">Ellettsville</a> </li>
                                             <li>Stinesville</li>
                                             <li>Hindustan</li>
+                                            <li><a href="<?php echo $base_url; ?>/service-area/Bloomfield-Indiana-heating-and-air-conditioning-repair.php">Bloomfield</a> </li>
+
                                         </ul>
                                     </div>
 
