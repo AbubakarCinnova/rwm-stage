@@ -32,10 +32,10 @@
                                             <li>Stinesville</li>
                                             <li>Hindustan</li>
                                             <li><a href="<?php echo $base_url; ?>/service-area/Bloomfield-Indiana-heating-and-air-conditioning-repair.php">Bloomfield</a> </li>
-
+                                            
                                         </ul>
                                     </div>
-
+                                    
                                     <div class="service-list margin-bottom-md">
                                         <ul>
                                             <li><b>Greene County</b></li>
@@ -44,7 +44,7 @@
                                             <li>Hendricksville</li>
                                             <li> Owen County</li>
                                             <li>Freedom </li>
-                                            <li>Spencer</li>
+                                            <li><a href="<?php echo $base_url; ?>/service-area/Spencer-Indiana-heating-and-air-conditioning-repair.php">Spencer</a> </li>
                                             <li>Gosport</li>
                                         </ul>
                                     </div>
