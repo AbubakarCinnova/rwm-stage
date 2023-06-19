@@ -60,7 +60,7 @@
                                             <li><b>Bartholomew County </b></li>
                                             <li>Columbus</li>
                                             <li><b>Morgan County</b></li>
-                                            <li>Martinsville</li>
+                                            <li><a href="<?php echo $base_url; ?>/service-area/Martinsville-Indiana-heating-and-air-conditioning-repair.php">Martinsville</a></li>
                                         </ul>
                                     </div>
 
