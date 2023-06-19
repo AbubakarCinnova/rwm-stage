@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>911 Mechanical | Testmonials</title>
+<title>Ecofriendly Mechanical | Testmonials</title>
 <?php include_once('menu.php') ?>
 </head>
 
@@ -14,7 +14,7 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <h1>Reviews</h1>
-                                <a href="https://g.page/r/CaxgzHRecaR5EBM/review">
+                                <a href="">
                                     <img src="<?php echo $base_url ?>/img/reviews-google (1).gif" alt="google" target="_blank" >
                                 </a>
 
