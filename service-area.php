@@ -55,7 +55,7 @@
                                             <li>Springville</li>
                                             <li>Oolitic</li>
                                             <li>Brown County</li>
-                                            <li>Nashville</li>
+                                            <li><a href="<?php echo $base_url; ?>/service-area/Nashville-Indiana-heating-and-air-conditioning-repair.php ">Nashville</a></li>
                                             <li>Gnaw Bone</li>
                                             <li><b>Bartholomew County </b></li>
                                             <li>Columbus</li>
