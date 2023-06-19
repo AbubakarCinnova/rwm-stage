@@ -28,7 +28,7 @@
                                             <li>Unionville</li>
                                             <li>Kirksville</li>
                                             <li>Harrodsburg</li>
-                                            <li>Ellettsville</li>
+                                            <li><a href="<?php echo $base_url; ?>/service-area/Ellettsville-Indiana-heating-and-air-conditioning-repair.php">Ellettsville</a> </li>
                                             <li>Stinesville</li>
                                             <li>Hindustan</li>
                                         </ul>
