@@ -31,7 +31,7 @@
                                 <h2>Bedford, Indiana</h2>
                                 <img src="<?php echo $base_url; ?>/img/Bedford_Indiana.jpg"
                                 alt="Bedford Indiana" class="service-area-pages-banner"/>
-                                <p>DBedford, Indiana is a charming city located in Lawrence County. Known as the
+                                <p>Bedford, Indiana is a charming city located in Lawrence County. Known as the
                                     "Limestone Capital of the World," Bedford has a rich history and strong ties to the
                                     limestone industry. The city is home to numerous limestone quarries and has supplied
                                     limestone for many notable and historic buildings across the United States.
