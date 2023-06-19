@@ -13,7 +13,7 @@
                     <div class="  content-area">
                         <div class="row">
                             <div class="col-sm-12">
-                                <img src="<?php echo $base_url ?>/img/design-build.php" alt="design-build-baner"
+                                <img src="<?php echo $base_url ?>/img/design.jpeg" alt="design-build-baner"
                                     style="width:100%;">
                                 <br>
 
