@@ -50,7 +50,7 @@
                                     <div class="service-list margin-bottom-md">
                                         <ul>
                                             <li><b>Lawrence County</b></li>
-                                            <li>Bedford</li>
+                                            <li><a href="<?php echo $base_url; ?>/service-area/Bedford-Indiana-heating-and-air-conditioning-repair.php">Bedford</a></li>
                                             <li>Judah</li>
                                             <li>Springville</li>
                                             <li>Oolitic</li>
