@@ -97,7 +97,11 @@
           </ul>
         </li>
 
-        <li><a href="<?php echo $base_url ?>/commercial.php" class="dropdown-toggle">Commercial</a></li>
+        <li><a href="<?php echo $base_url ?>/commercial.php" class="dropdown-toggle">Commercial</a>
+            <ul class="dropdown-menu">
+              <li><a href="<?php echo $base_url ?>/design-build.php">Design Build</a></li>
+            </ul>
+        </li>
 
         <li><a href="<?php echo $base_url ?>/geothermal.php" class="dropdown-toggle">Geothermal</a></li>
 
