@@ -221,11 +221,9 @@
           <div class="col-sm-12 item  owl-item">
 
             <p class="light text-center ">
-            <p class="light text-center ">Very professional and impressed with the overall installation of our new
-              furnace and ac unit. The job was left clean and the installers were great. Would highly recommend 911
-              Mechanical. </p>
+            <p class="light text-center ">Excellent installation of furnace and heat pump. Very careful and attentive to detail. Tidy. I was impressed by their teamwork.   </p>
 
-            <h3 class="text-center">C.B </h3>
+            <h3 class="text-center">L.E</h3>
 
           </div>
 
@@ -235,11 +233,9 @@
           <div class="col-sm-12 item  owl-item">
 
             <p class="light text-center ">
-            <p class="light text-center ">The technicians were on time and friendly. They replaced my furnace and air
-              conditioner. They explained what they were going to do before they started and answered all my questions.
-              Would definitely recommend them!</p>
+            <p class="light text-center ">We were extremely pleased with Ecofriendly Mechanical as they replaced our furnace and heat pump.  Totally professional, explained everything, and was pleasant to deal with. </p>
 
-            <h3 class="text-center">J.S</h3>
+            <h3 class="text-center">R.H</h3>
 
           </div>
 
@@ -249,10 +245,9 @@
           <div class="col-sm-12 item  owl-item">
 
             <p class="light text-center ">
-            <p class="light text-center ">911 Mechanical Heating-Cooling has a few finest technicians working at this
-              company. They have experience and they are truly professional.</p>
+            <p class="light text-center ">Andy and his team go out of their way to make a new system install go as smoothly as possible. We couldn’t be happier with the experience </p>
 
-            <h3 class="text-center">S.K</h3>
+            <h3 class="text-center">A.C</h3>
 
           </div>
 
@@ -262,22 +257,26 @@
           <div class="col-sm-12 item  owl-item">
 
             <p class="light text-center ">
-            <p class="light text-center ">The entire experience was excellent from the estimate to the installation.
-              We're very pleased with our new HVAC system and it has made a significant difference. The team was polite,
-              professional, and expert at their jobs.</p>
+            <p class="light text-center ">Awesome experience from design to installation. The entire Ecofriendly Mechanical team went above and beyond.  </p>
 
-            <h3 class="text-center">C.T</h3>
+            <h3 class="text-center">E.F</h3>
 
           </div>
 
           <div class="col-sm-12 item  owl-item">
 
             <p class="light text-center ">
-            <p class="light text-center ">Honest company, responsive, we have now used them for new HVAC on 2 different
-              homes and will continue to use them. They do not work off commission, so what you want is what you get at
-              a market value price. Recommend to anyone.</p>
+            <p class="light text-center ">Great experience with Ecofriendly Mechanical!  </p>
 
-            <h3 class="text-center">S.C</h3>
+            <h3 class="text-center">T.C</h3>
+
+          </div>
+          <div class="col-sm-12 item  owl-item">
+
+            <p class="light text-center ">
+            <p class="light text-center ">Andy Hardisty and his team are the best! They’ve done new construction geothermal with in-floor heat for our home and serviced system last 3 years. Knowledgeable and innovative, Andy is on the cutting edge of heating and cooling technology. </p>
+
+            <h3 class="text-center"> N.F</h3>
 
           </div>
 
