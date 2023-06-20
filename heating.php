@@ -13,7 +13,7 @@
 					<div class="  content-area">
 						<div class="row">
 							<div class="col-sm-12">
-								<img src="<?php echo $base_url ?>/img/furnace_repair-1 (2).jpg" alt="baner" class="img-responsive">
+								<img src="<?php echo $base_url ?>/img/furnace_repair-1 (3).jpg" alt="baner" class="img-responsive">
 								<br>
 
 								<h2>Furnace Repair</h2>
