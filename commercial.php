@@ -20,7 +20,7 @@
                             <div class="col-sm-12">
                                 <h1>Commercial HVAC</h1>
                                 <p class="geothermal-banner"><img
-                                        src="<?php echo $base_url ?>/img/ccommrcial hvac bloomington, IN.jpeg"
+                                        src="<?php echo $base_url ?>/img/comeercial-banner.jpeg"
                                         alt="commercial hvac">
                                 </p>
                                 <br>
@@ -102,7 +102,7 @@
                                 <p><strong>When it comes to getting the best heating and cooling equipment or service,
                                         the only name you need to know in the Bloomington, IN area is Ecofriendly
                                         Mechanical.</strong></p>
-                                <br><br>
+                                <br>
                                 <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Contact Us</a>
                                 <br>
 
