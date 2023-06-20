@@ -15,33 +15,26 @@
                         <div class="row">
                             <div class="col-lg-12">
 
-                                <h1>Annual V.I.P Maintenance Program</h1>
-                                <p>As your Heating and Cooling equipment ages, the more valuable a maintenance program becomes.  The savings from one major repair could save you more than the service agreement itself.  Regular service of your equipment is like changing the oil in your vehicle.  You can save thousands in energy costs and future repairs, as well as extend the life of your HVAC system. 
+                                <h1>Annual EcoShield Service Plan </h1>
+                                <p>As your Heating and Cooling equipment ages, the more valuable a maintenance program becomes.  The savings from one major repair could save you more than the service agreement itself.  Regular service of your equipment is like changing the oil in your vehicle.  You can save thousands in energy costs and future repairs, as well as extend the life of your HVAC system.  
                                 </p>
 
 
                                 <h2>Top Priority Status</h2>
 
-                                <p>You are a Ecofriendly Mechanical VIP customer when you have a member of the Annual V.I.P
-                                    Maintenance Program. That means when you need service, you get it NOW - no lengthy
-                                    waiting when your system is out of order. Ecofriendly Mechanical has emergency service
-                                    available
-                                    24 hours per day, every day of the week.</p>
+                                <p>You are an Ecofriendly Mechanical customer when you are a member of the Annual EcoShield Service Plan. That means when you need service, you get it NOW - no lengthy waiting when your system is out of order. Ecofriendly Mechanical has emergency service available 24 hours per day, every day of the week.</p>
 
 
 
                                 <h2>Longer Equipment Life</h2>
 
-                                <p>With the special care you receive with the V.I.P Maintenance Program, your heating and cooling equipment will last longer and run more efficiently.</p>
+                                <p>With the special care, you receive with the EcoShield Service Plan, your heating and cooling equipment will last longer and run more efficiently.</p>
 
 
 
                                 <h2>Energy Savings</h2>
 
-                                <p>The money you'll save by maintaining your equipment in top running order with a VIP
-                                    Maintenance Program membership will add up to big savings on your heating and
-                                    cooling
-                                    costs.</p>
+                                <p>The money you'll save by maintaining your equipment in top running order with an EcoShield Service Plan membership will add up to big savings on your heating and cooling costs.</p>
 
 
 
@@ -148,7 +141,7 @@
 
 
                                 <h2>Terms of Agreement</h2>
-                                <p>All Ecofriendly Mechanical V.I.P. Club contracts run one calendar year from invoice date.</p>
+                                <p>All Ecofriendly Mechanical's EcoShield Service Plan contracts run one calendar year from invoice date.</p>
                                <!--  <p>Multiple-year discounts are available:</p>
                                 <ul>
                                     <li>2 Years - 5% Discount</li>
