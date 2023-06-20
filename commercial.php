@@ -19,11 +19,8 @@
 
                             <div class="col-sm-12">
                                 <h1>Commercial HVAC</h1>
-                                <p class="geothermal-banner"><img
-                                        src="<?php echo $base_url ?>/img/comeercial-banner.jpeg"
-                                        alt="commercial hvac">
-                                </p>
-                                <br>
+                                <img src="<?php echo $base_url ?>/img/comeercial-banner.jpeg"
+                                        alt="commercial hvac" class="service-area-pages-banner">
                                 <h2>Commercial HVAC Bloomington, IN</h2>
 
                                 <p>Ecofriendly Mechanical Heating and Cooling Specialists is a premier provider of
