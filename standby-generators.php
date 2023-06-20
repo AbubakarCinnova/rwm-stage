@@ -30,7 +30,8 @@
 
 
                                 <h2>Experience Peace of Mind During Power Outages</h2>
-
+                                <img src="<?php echo $base_url ?>/img/gen-1.jpg" alt="Generac-2"
+                                    class="service-area-pages-banner">
                                 <p>Modern generators are designed to operate quietly while providing power to your
                                     entire
                                     home or business. Whole-house generators can keep your lights, security system, sump
@@ -41,8 +42,7 @@
                                     restore full electrical power to your premises. This level of reliability offers you
                                     true peace of mind.</p>
 
-                                <img src="<?php echo $base_url ?>/img/gen-1.jpg" alt="Generac-2"
-                                    class="service-area-pages-banner">
+
 
                                 <p> As an authorized dealer of Generac standby generators, Ecofriendly Mechanical
                                     specializes in evaluating your home's wiring and power requirements. Our team will
@@ -64,11 +64,12 @@
                             </div>
 
                             <div class="col-sm-5">
-                                <iframe width="380" height="280" src="https://www.youtube.com/embed/ASvJtN-4Z9s" title="Generac Home Standby Generator: How It Works"  frameborder="0"
-                                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                  allowfullscreen style="width: 100%;"></iframe>
-                    
-                              </div>
+                                <iframe width="380" height="280" src="https://www.youtube.com/embed/ASvJtN-4Z9s"
+                                    title="Generac Home Standby Generator: How It Works" frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                    allowfullscreen style="width: 100%;"></iframe>
+
+                            </div>
 
                         </div>
                     </div>
