@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>911 Mechanical | V.I.P Maintenance Program </title>
+<title>Ecofriendly Mechanical | EcoShield Service Plan </title>
 
 <?php include_once('menu.php') ?>
 </head>
@@ -16,19 +16,15 @@
                             <div class="col-lg-12">
 
                                 <h1>Annual V.I.P Maintenance Program</h1>
-                                <p>As your Heating and Cooling equipment ages, the more valuable a maintenance program
-                                    becomes. The savings from one major repair could save you more than the service
-                                    agreement itself. Regular service of your equipment is like changing the oil in your
-                                    vehicle. You can save thousands in energy costs and future repairs, as well as
-                                    extend the life of your HVAC system.
+                                <p>As your Heating and Cooling equipment ages, the more valuable a maintenance program becomes.  The savings from one major repair could save you more than the service agreement itself.  Regular service of your equipment is like changing the oil in your vehicle.  You can save thousands in energy costs and future repairs, as well as extend the life of your HVAC system. 
                                 </p>
 
 
                                 <h2>Top Priority Status</h2>
 
-                                <p>You are a 911 Mechanical VIP customer when you have a member of the Annual V.I.P
+                                <p>You are a Ecofriendly Mechanical VIP customer when you have a member of the Annual V.I.P
                                     Maintenance Program. That means when you need service, you get it NOW - no lengthy
-                                    waiting when your system is out of order. 911 Mechanical has emergency service
+                                    waiting when your system is out of order. Ecofriendly Mechanical has emergency service
                                     available
                                     24 hours per day, every day of the week.</p>
 
@@ -50,26 +46,17 @@
 
 
                                 <h2>Fulfillment of Warranty Requirements</h2>
-                                <p>If your HVAC components are under warranty, you should know that most manufacturers
-                                    require evidence of annual maintenance to pay a claim. An investment in regular
-                                    maintenance is essentially giving you an insurance policy. If something malfunctions
-                                    that are covered under warranty, you’ll be able to file your claim with more
-                                    confidence
-                                    and ease with evidence of annual maintenance.</p>
+                                <p>If your HVAC components are under warranty, you should know that most manufacturers require evidence of annual maintenance to pay a claim. An investment in regular maintenance is essentially giving you an insurance policy. If something malfunctions that are covered under warranty, you’ll be able to file your claim with more confidence and ease with evidence of annual maintenance.</p>
 
 
 
                                 <h2>What's Included?</h2>
-                                <p> Your yearly maintenance agreement includes priority scheduling, discounts on service
-                                    calls, and protection for your HVAC equipment.</p>
-
-                                <p>You can individually protect your furnace (plus hot water heater) and air
-                                    conditioner,
-                                    or choose combined protection for both at a reduced price.</p>
+                                <p> Your EcoShield Service Plan agreement includes priority scheduling, discounts on service calls, and protection for your HVAC equipment. Two Tune-ups per year, one in the early fall for the furnace and one in the Spring for the AC or heat pump.
+<br>Tank water heater or tankless water heater inspection is included.</p>
 
 
 
-                                <h2>Annual V.I.P Maintenance Program Benefits</h2>
+                                <h2>Annual EcoShield Service Plan Benefits</h2>
 
                                 <ul>
                                     <li> 10% Off all Service Calls</li>
@@ -88,10 +75,9 @@
 
 
 
-                                <h1>Furnace + Water Heater Protection</h1>
+                                <h1>Furnace EcoShield Protection</h1>
 
                                 <h2>Furnace Tune-Up</h2>
-                                <p>Furnace Inspection</p>
                                 <ul>
                                     <li>Test furnace for carbon monoxide leaks</li>
                                     <li>Clean ignition assembly</li>
@@ -108,7 +94,6 @@
                                     <li>Start and check all equipment</li>
                                     <li>Check pilot assemblies</li>
                                     <li>Check condensate drain</li>
-                                    <li>Change humidifier pad</li>
                                 </ul>
 
 
@@ -122,10 +107,9 @@
 
 
 
-                                <h1>Air Conditioner Protection</h1>
+                                <h1>Air Conditioner EcoShield Protection</h1>
 
-                                <h2>Air Conditioner Tune-Up</h2>
-                                <p>Condensing Unit Inspection</p>
+                                <h2>Air Conditioner or Heat Pump Tune-Up</h2>
 
                                 <ul>
                                     <li>Check operating pressures</li>
@@ -154,7 +138,9 @@
 
                                     <li> Cycle the thermostat</li>
 
-                                    <li> Secure all electrical connections</li>
+                                    <li>Check the fuses</li>
+
+                                    <li> Inspect all wiring for loose connections and frays</li>
 
                                 </ul>
 
@@ -162,13 +148,16 @@
 
 
                                 <h2>Terms of Agreement</h2>
-                                <p>All 911 Mechanical V.I.P. Club contracts run one calendar year from invoice date.</p>
+                                <p>All Ecofriendly Mechanical V.I.P. Club contracts run one calendar year from invoice date.</p>
                                <!--  <p>Multiple-year discounts are available:</p>
                                 <ul>
                                     <li>2 Years - 5% Discount</li>
                                     <li> 3 Years - 10% Discount</li>
                                 </ul>
                                 <br> -->
+                               
+                                <p><strong>We Also Offer Annual Maintenance Service Plans for Home Back-Up Generators, Geothermal Systems, Boilers, and Mini-splits. Please contact us for more information</strong></p>
+                               
                                 <p>The per-year price is for a standard single-family home
                                     Parts are an additional charge.</p>
 
