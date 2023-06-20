@@ -19,32 +19,92 @@
 
                             <div class="col-sm-12">
                                 <h1>Commercial HVAC</h1>
-                                <p><img src="<?php echo $base_url ?>/img/commercial hvac.jpg" class="full-width-img">
+                                <p class="geothermal-banner"><img
+                                        src="<?php echo $base_url ?>/img/ccommrcial hvac bloomington, IN.jpeg"
+                                        alt="commercial hvac">
                                 </p>
                                 <br>
-                                <p>We understand the need for your business to provide a comfortable indoor environment for your employees and your customers. We can provide systems, services, and solutions which will deliver substantial savings in HVAC utility costs for your business. Ecofriendly has been providing commercial installations of the newest and most energy-efficient HVAC systems available, routine maintenance of HVAC systems, and fast expert HVAC repair, since 1982.</p>
-                                <p>Ecofriendly performs routine maintenance, repairs, and new installations of HVAC custom-tailored to your needs and budget requirements. Ecofriendly services HVAC: furnaces, boilers, and air conditioning units. Ecofriendly also services and installs packaged units, and rooftop units and repairs all brands and makes of commercial heating and air conditioning equipment.</p>
+                                <h2>Commercial HVAC Bloomington, IN</h2>
 
-                                <h2> Ecofriendly, Commercial HVAC Services:</h2>
+                                <p>Ecofriendly Mechanical Heating and Cooling Specialists is a premier provider of
+                                    commercial and industrial HVAC services in the Bloomington, Indiana area,
+                                    specializing in highly energy-efficient systems.</p>
+                                <p>Our dedicated team is committed to optimizing energy performance and reducing
+                                    environmental impact. We offer a comprehensive range of services, including routine
+                                    maintenance, repairs, and new installations of HVACR and VRF systems, all
+                                    custom-tailored to your needs and budget requirements. From servicing and installing
+                                    packaged units and rooftop units to repairing all brands and models of commercial
+                                    heating and air conditioning equipment, we ensure that your systems operate at their
+                                    highest efficiency levels. </p>
+                                <p>Our expertise extends to incorporating the latest advancements in energy-efficient
+                                    technology, such as advanced control systems, variable speed drives, and optimized
+                                    system designs. With Ecofriendly, you can expect cutting-edge solutions that not
+                                    only provide exceptional comfort but also deliver substantial energy savings. We are
+                                    dedicated to creating sustainable and eco-friendly environments while maximizing
+                                    cost efficiency. Choose us as your trusted partner in achieving highly
+                                    energy-efficient HVAC systems that exceed your expectations.</p>
+                                <p><strong>We also offer <a href="<?php echo $base_url ?>/design-build.php">
+                                            Design-Build</a> Services</strong></p>
+                                <br>
+
+                                <h2>Our Commercial HVAC Services:</h2>
                                 <ul>
                                     <li>Duct Systems and Modifications</li>
-                                    <li>Ductless Air Conditioning Split Systems</li>
+                                    <li>Ductless Air Conditioning Split Systems (VRF)</li>
                                     <li>All-in-One Solution Packaged Systems</li>
-                                    <li>Complete Seasonal Inspections of HVAC systems</li>
-                                    <li>Emergency Repair Service.</li>
-                                    <li>VRF Systems</li>
+                                    <li>Boilers</li>
+                                    <li>Design Build</li>
+                                    <li>Radiant heating</li>
+                                    <li>Exhaust Air Systems</li>
+                                    <li>Make-up Air Systems</li>
+                                    <li>24-Hour Emergency Repair Service.</li>
                                     <li>Temperature/Humidity Control</li>
-                                    <li>Maintenance Plans</li>
                                     <li>Indoor Air Quality</li>
+                                    <li>Industrial Ventilation</li>
                                     <li>HVAC Sales, Repair, Installation</li>
                                     <li>Rooftop Units</li>
-                                    <li>HVAC</li>
-                                    <li>Garage Heaters</li>
-                                    <li>Radiant Heater</li>
-                                    <li>Boilers</li>
+                                    <li>HVACR</li>
+                                    <li>Gas Piping</li>
+                                    <li>Boilers (hot water and steam)</li>
+                                    <li>Duct Work (Fabrication and Installation)</li>
+                                    <li>Refrigeration</li>
+                                    <li>Chillers Including Centrifugal Chillers, Screw Chillers, Rack Chillers,
+                                        Reciprocating Chillers, and Water Chillers</li>
+                                    <li>Refrigerated Air Dryers</li>
+                                    <li>Computer Room Cooling</li>
+                                    <li>Data Center Cooling</li>
+                                    <li>Hospital and Laboratories</li>
+                                    <li>Store and Restaurant Equipment</li>
+                                    <li>Solar Power Systems</li>
+                                    <li>Solar Arrays</li>
                                 </ul>
                                 <br>
 
+                                <h2>Ecofriendly Refrigeration Services:</h2>
+                                <p>From small kitchens to restaurants, from reach-ins to walk-ins, and everything in
+                                    between. Ecofriendly can service and/or install a refrigeration system to meet any
+                                    need or budget.</p>
+                                <ul>
+                                    <li>Refrigeration Service and Installation</li>
+                                    <li>Reach-In Refrigerator</li>
+                                    <li>Walk-In Refrigerator</li>
+                                    <li>Reach-In Freezers</li>
+                                    <li>Walk-In Freezers</li>
+                                    <li>Ice Machines</li>
+                                    <li>Bar Coolers</li>
+                                    <li>Merchandisers</li>
+                                    <li>Prep Tables</li>
+                                    <li>Water Fountains</li>
+                                    <li>Chillers</li>
+                                    <li>Chilled Water</li>
+                                </ul>
+                                <br>
+                                <p><strong>When it comes to getting the best heating and cooling equipment or service,
+                                        the only name you need to know in the Bloomington, IN area is Ecofriendly
+                                        Mechanical.</strong></p>
+                                <br><br>
+                                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Contact Us</a>
+                                <br>
 
 
 
