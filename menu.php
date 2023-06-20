@@ -94,6 +94,7 @@
           <ul class="dropdown-menu">
             <li><a href="<?php echo $base_url ?>/maintenance-plan.php">Maintenance Plan</a></li>
             <li><a href="<?php echo $base_url ?>/water-heater.php">Water Heaters</a></li>
+            <li><a href="<?php echo $base_url ?>/standby-generators.php">Generators</a></li>
           </ul>
         </li>
 
