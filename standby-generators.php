@@ -63,11 +63,11 @@
 
                             </div>
 
-                            <div class="col-md-6 iframe-wrap">
-                                <iframe width="400" height="300" src="https://www.youtube.com/watch?v=ASvJtN-4Z9s"
+                            <div class="col-md-6">
+                                <iframe width="380" height="280" src="https://www.youtube.com/watch?v=ASvJtN-4Z9s"
                                   title="Ecofriendly Bloomington" frameborder="0"
                                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                  allowfullscreen></iframe>
+                                  allowfullscreen style="width: 100%;"></iframe>
                     
                               </div>
 
