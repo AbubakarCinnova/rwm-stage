@@ -2102,9 +2102,9 @@ textarea {
 }
 
 .testmonial .owl-theme .owl-controls .owl-page span {
-  height: 7px;
-  width: 60px;
-  border-radius: 0;
+  height: 13px;
+  width: 13px;
+  border-radius: 20px;
   background: #000000;
   opacity: 1;
 }
