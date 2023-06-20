@@ -12,23 +12,26 @@
       <div class="carousel-inner" role="listbox">
 
         <div class="item active">
-          <a href="<?php echo $base_url ?>/contact-us.php"><img src="<?php echo $base_url; ?>/img/b1.png"
+          <a href="<?php echo $base_url ?>/contact-us.php"><img src="<?php echo $base_url; ?>/img/stay-cool.jpg"
               alt="first slide" width="100%"></a>
-
         </div>
-
 
         <div class="item">
           <a href="<?php echo $base_url ?>/contact-us.php"> <img
-              src="<?php echo $base_url; ?>/img/lennox_spring_1000X350-1 (1) (1) (1).png" alt="second slide"
+              src="<?php echo $base_url; ?>/img/rebate-slider.jpg" alt="second slide"
               width="100%"> </a>
         </div>
 
-     <!--    <div class="item">
-          <a href="<?php echo $base_url ?>/contact-us.php"> <img src="<?php echo $base_url; ?>/img/b2.png"
-              alt="second slide" width="100%">
+        <div class="item">
+          <a href="<?php echo $base_url ?>/contact-us.php"> <img src="<?php echo $base_url; ?>/img/slider-3-thermosts.jpg"
+              alt="third slide" width="100%">
           </a>
-        </div> -->
+        </div>
+        <div class="item">
+          <a href="<?php echo $base_url ?>/contact-us.php"> <img src="<?php echo $base_url; ?>/img/genrerator-slider.png"
+              alt="fourth slide" width="100%">
+          </a>
+        </div>
 
 
 
@@ -168,25 +171,29 @@
           <div class="col-md-6">
             <h2>Ecofriendly Mechanical Heating and Cooling: Your Trusted HVAC Experts in Bloomington, Indiana</h2>
 
-           <p>Ecofriendly Mechanical Heating and Cooling stands as the leading HVAC company in Bloomington, Indiana,
-            dedicated to eco-friendly practices. For over four decades, we have proudly served our local community,
-            delivering exceptional heating, HVAC, and air conditioning services. As a family-owned and operated
-            business, we have established a strong and respected reputation based on our unwavering commitment to
-            quality, value, and providing a hassle-free customer experience.</p> 
+            <p>Ecofriendly Mechanical Heating and Cooling stands as the leading HVAC company in Bloomington, Indiana,
+              dedicated to eco-friendly practices. For over four decades, we have proudly served our local community,
+              delivering exceptional heating, HVAC, and air conditioning services. As a family-owned and operated
+              business, we have established a strong and respected reputation based on our unwavering commitment to
+              quality, value, and providing a hassle-free customer experience.</p>
 
 
 
-           <p>Our team of NATE-certified HVAC technicians is unparalleled in their expertise and continually undergoes
-            training to enhance their knowledge and skills. Whether it's regular maintenance, urgent repairs, or the
-            installation of high-efficiency residential and commercial comfort systems, we are here to assist you. With
-            a single phone call, you can rely on us to meet all your heating and cooling needs.</p> 
+            <p>Our team of NATE-certified HVAC technicians is unparalleled in their expertise and continually undergoes
+              training to enhance their knowledge and skills. Whether it's regular maintenance, urgent repairs, or the
+              installation of high-efficiency residential and commercial comfort systems, we are here to assist you.
+              With
+              a single phone call, you can rely on us to meet all your heating and cooling needs.</p>
 
 
 
-           <p>At Ecofriendly Mechanical Heating and Cooling, customer satisfaction is our ultimate goal. We prioritize our
-            customers above all else and strive to exceed their expectations. Our mission is to be the premier heating
-            contractor in the Bloomington area. Moreover, we back our services with the best warranties in the industry,
-            ensuring your complete peace of mind. Rest assured, when you choose us, your satisfaction is guaranteed.</p> 
+            <p>At Ecofriendly Mechanical Heating and Cooling, customer satisfaction is our ultimate goal. We prioritize
+              our
+              customers above all else and strive to exceed their expectations. Our mission is to be the premier heating
+              contractor in the Bloomington area. Moreover, we back our services with the best warranties in the
+              industry,
+              ensuring your complete peace of mind. Rest assured, when you choose us, your satisfaction is guaranteed.
+            </p>
 
 
           </div>
@@ -221,7 +228,8 @@
           <div class="col-sm-12 item  owl-item">
 
             <p class="light text-center ">
-            <p class="light text-center ">Excellent installation of furnace and heat pump. Very careful and attentive to detail. Tidy. I was impressed by their teamwork.   </p>
+            <p class="light text-center ">Excellent installation of furnace and heat pump. Very careful and attentive to
+              detail. Tidy. I was impressed by their teamwork. </p>
 
             <h3 class="text-center">L.E</h3>
 
@@ -233,7 +241,8 @@
           <div class="col-sm-12 item  owl-item">
 
             <p class="light text-center ">
-            <p class="light text-center ">We were extremely pleased with Ecofriendly Mechanical as they replaced our furnace and heat pump.  Totally professional, explained everything, and was pleasant to deal with. </p>
+            <p class="light text-center ">We were extremely pleased with Ecofriendly Mechanical as they replaced our
+              furnace and heat pump. Totally professional, explained everything, and was pleasant to deal with. </p>
 
             <h3 class="text-center">R.H</h3>
 
@@ -245,7 +254,8 @@
           <div class="col-sm-12 item  owl-item">
 
             <p class="light text-center ">
-            <p class="light text-center ">Andy and his team go out of their way to make a new system install go as smoothly as possible. We couldn’t be happier with the experience </p>
+            <p class="light text-center ">Andy and his team go out of their way to make a new system install go as
+              smoothly as possible. We couldn’t be happier with the experience </p>
 
             <h3 class="text-center">A.C</h3>
 
@@ -257,7 +267,8 @@
           <div class="col-sm-12 item  owl-item">
 
             <p class="light text-center ">
-            <p class="light text-center ">Awesome experience from design to installation. The entire Ecofriendly Mechanical team went above and beyond.  </p>
+            <p class="light text-center ">Awesome experience from design to installation. The entire Ecofriendly
+              Mechanical team went above and beyond. </p>
 
             <h3 class="text-center">E.F</h3>
 
@@ -266,7 +277,7 @@
           <div class="col-sm-12 item  owl-item">
 
             <p class="light text-center ">
-            <p class="light text-center ">Great experience with Ecofriendly Mechanical!  </p>
+            <p class="light text-center ">Great experience with Ecofriendly Mechanical! </p>
 
             <h3 class="text-center">T.C</h3>
 
@@ -274,7 +285,9 @@
           <div class="col-sm-12 item  owl-item">
 
             <p class="light text-center ">
-            <p class="light text-center ">Andy Hardisty and his team are the best! They’ve done new construction geothermal with in-floor heat for our home and serviced system last 3 years. Knowledgeable and innovative, Andy is on the cutting edge of heating and cooling technology. </p>
+            <p class="light text-center ">Andy Hardisty and his team are the best! They’ve done new construction
+              geothermal with in-floor heat for our home and serviced system last 3 years. Knowledgeable and innovative,
+              Andy is on the cutting edge of heating and cooling technology. </p>
 
             <h3 class="text-center"> N.F</h3>
 
