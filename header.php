@@ -8,8 +8,6 @@
 
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <meta name="description" content="">
-
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="google-site-verification" content="de073gIEjMxoaGj0MEMEj0Uom_LA8aiKNsTURixNjZI" />
 

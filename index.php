@@ -1,5 +1,6 @@
 <?php include('header.php'); ?>
-<title>Ecofriendly Mechanical Heating and Cooling</title>
+<title>Heating and Cooling Bloomington | HVAC Bloomington | Commercial HVAC | Ecofriendly Mechanical </title>
+<meta name="description" content=" Ecofriendly Mechanical Heating and Cooling stands as the leading HVAC company in Bloomington, Indiana, dedicated to eco-friendly practices." />
 <?php include('menu.php'); ?>
 
 </head>
@@ -187,13 +188,7 @@
 
 
 
-            <p>At Ecofriendly Mechanical Heating and Cooling, customer satisfaction is our ultimate goal. We prioritize
-              our
-              customers above all else and strive to exceed their expectations. Our mission is to be the premier heating
-              contractor in the Bloomington area. Moreover, we back our services with the best warranties in the
-              industry,
-              ensuring your complete peace of mind. Rest assured, when you choose us, your satisfaction is guaranteed.
-            </p>
+              <p>At Ecofriendly Mechanical Heating and Cooling, customer satisfaction is our ultimate goal. We prioritize our customers above all else and strive to exceed their expectations. Our mission is to be the premier HVAC contractor in the Bloomington area. Moreover, we back our services with the best warranties in the industry, ensuring your complete peace of mind. Rest assured, when you choose us, your satisfaction is guaranteed. </p>
 
 
           </div>
