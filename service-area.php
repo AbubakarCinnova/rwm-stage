@@ -42,7 +42,7 @@
                                             <li>Solsberry</li>
                                             <li>Linton</li>
                                             <li>Hendricksville</li>
-                                            <li> Owen County</li>
+                                            <li> <b>Owen County</b> </li>
                                             <li>Freedom </li>
                                             <li><a href="<?php echo $base_url; ?>/service-area/Spencer-Indiana-heating-and-air-conditioning-repair.php">Spencer</a> </li>
                                             <li>Gosport</li>
@@ -59,8 +59,8 @@
                                             <li>Brown County</li>
                                             <li><a href="<?php echo $base_url; ?>/service-area/Nashville-Indiana-heating-and-air-conditioning-repair.php ">Nashville</a></li>
                                             <li>Gnaw Bone</li>
-                                            <li><b>Bartholomew County </b></li>
-                                            <li>Columbus</li>
+                                           <!--  <li><b>Bartholomew County </b></li>
+                                            <li>Columbus</li> -->
                                             <li><b>Morgan County</b></li>
                                             <li><a href="<?php echo $base_url; ?>/service-area/Martinsville-Indiana-heating-and-air-conditioning-repair.php">Martinsville</a></li>
                                         </ul>
