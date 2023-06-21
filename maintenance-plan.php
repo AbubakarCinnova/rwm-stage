@@ -16,54 +16,71 @@
                             <div class="col-lg-12">
 
                                 <h1>Annual EcoShield Service Plan </h1>
-                                <p>As your Heating and Cooling equipment ages, the more valuable a maintenance program becomes.  The savings from one major repair could save you more than the service agreement itself.  Regular service of your equipment is like changing the oil in your vehicle.  You can save thousands in energy costs and future repairs, as well as extend the life of your HVAC system.  
+                                <p>As your Heating and Cooling equipment ages, the more valuable a maintenance program
+                                    becomes. The savings from one major repair could save you more than the service
+                                    agreement itself. Regular service of your equipment is like changing the oil in your
+                                    vehicle. You can save thousands in energy costs and future repairs, as well as
+                                    extend the life of your HVAC system.
                                 </p>
 
 
                                 <h2>Top Priority Status</h2>
 
-                                <p>You are an Ecofriendly Mechanical customer when you are a member of the Annual EcoShield Service Plan. That means when you need service, you get it NOW - no lengthy waiting when your system is out of order. Ecofriendly Mechanical has emergency service available 24 hours per day, every day of the week.</p>
+                                <p>You are an Ecofriendly Mechanical preferred customer when you are a member of the
+                                    Annual EcoShield Service Plan. That means when you need service, you get priority
+                                    scheduling, with no overtime rates and no lengthy waiting when your system is out of
+                                    order. Ecofriendly Mechanical has emergency service available 24 hours per day,
+                                    every day of the week.</p>
 
 
 
                                 <h2>Longer Equipment Life</h2>
 
-                                <p>With the special care, you receive with the EcoShield Service Plan, your heating and cooling equipment will last longer and run more efficiently.</p>
+                                <p>With the special care, you receive with the EcoShield Service Plan, your heating and
+                                    cooling equipment will last longer and run more efficiently.
 
+                                </p>
 
 
                                 <h2>Energy Savings</h2>
 
-                                <p>The money you'll save by maintaining your equipment in top running order with an EcoShield Service Plan membership will add up to big savings on your heating and cooling costs.</p>
+                                <p>The money you'll save by maintaining your equipment in top running order with an
+                                    EcoShield Service Plan membership will add up to big savings on your heating and
+                                    cooling costs.
 
+                                </p>
 
 
                                 <h2>Fulfillment of Warranty Requirements</h2>
-                                <p>If your HVAC components are under warranty, you should know that most manufacturers require evidence of annual maintenance to pay a claim. An investment in regular maintenance is essentially giving you an insurance policy. If something malfunctions that are covered under warranty, you’ll be able to file your claim with more confidence and ease with evidence of annual maintenance.</p>
+                                <p>If your HVAC components are under warranty, you should know that most manufacturers
+                                    require evidence of annual maintenance to pay a claim. An investment in regular
+                                    maintenance is essentially giving you an insurance policy. If something malfunctions
+                                    that are covered under warranty, you’ll be able to file your claim with more
+                                    confidence and ease with evidence of annual maintenance.
+
+                                </p>
 
 
 
                                 <h2>What's Included?</h2>
-                                <p> Your EcoShield Service Plan agreement includes priority scheduling, discounts on service calls, and protection for your HVAC equipment. Two Tune-ups per year, one in the early fall for the furnace and one in the Spring for the AC or heat pump.
-<br>Tank water heater or tankless water heater inspection is included.</p>
+                                <p> Your EcoShield Service Plan agreement includes priority scheduling, discounts on
+                                    service calls, and protection for your HVAC equipment. Two Tune-ups per year, one in
+                                    the heating season for your furnace and one tune-up in the cooling season for your
+                                    AC or heat pump.
+
+                                    <br> Tank water heater or tankless water heater inspection is included.
+                                </p>
 
 
 
                                 <h2>Annual EcoShield Service Plan Benefits</h2>
 
                                 <ul>
-                                    <li> 10% Off all Service Calls</li>
-
-                                    <li> Multiple System Discounts</li>
-
-                                    <li> Receive a 5% discount on installed equipment during the contract.</li>
-
-                                    <li> No Overtime Charges</li>
-
-                                    <li> Agreement is Transferrable</li>
-
-                                    <li> Priority Service Scheduling</li>
-
+                                    <li>10% Off all Service Repairs</li>
+                                    <li>Multiple System Discount</li>
+                                    <li>No Overtime Charges</li>
+                                    <li>Priority Service Scheduling </li>
+                                    <li>Agreement is Transferrable</li>
                                 </ul>
 
 
@@ -106,53 +123,39 @@
 
                                 <ul>
                                     <li>Check operating pressures</li>
-
                                     <li>Check for leaks</li>
-
                                     <li>Clean condenser coil</li>
-
                                     <li>Check the evaporator coil for proper drainage</li>
-
                                     <li>Check drain line</li>
-
                                     <li>Check filter</li>
-
-                                    <li> Check amp draw</li>
-
+                                    <li>Check amp draw</li>
                                     <li>Check blower</li>
-
-                                    <li> Check refrigerant</li>
-
+                                    <li>Check refrigerant</li>
                                     <li>Check if the unit is level</li>
-
-                                    <li> Check temperature</li>
-
-                                    <li> Shut down the humidifier</li>
-
-                                    <li> Cycle the thermostat</li>
-
+                                    <li>Check temperature</li>
+                                    <li>Shut down the humidifier</li>
+                                    <li>Cycle the thermostat</li>
                                     <li>Check the fuses</li>
-
-                                    <li> Inspect all wiring for loose connections and frays</li>
-
+                                    <li>Inspect all wiring for loose connections and frays</li>
                                 </ul>
 
 
 
 
                                 <h2>Terms of Agreement</h2>
-                                <p>All Ecofriendly Mechanical's EcoShield Service Plan contracts run one calendar year from invoice date.</p>
-                               <!--  <p>Multiple-year discounts are available:</p>
-                                <ul>
-                                    <li>2 Years - 5% Discount</li>
-                                    <li> 3 Years - 10% Discount</li>
-                                </ul>
-                                <br> -->
-                               
-                                <p><strong>We Also Offer Annual Maintenance Service Plans for Home Back-Up Generators, Geothermal Systems, Boilers, and Mini-splits. Please contact us for more information</strong></p>
-                               
-                                <p>The per-year price is for a standard single-family home
-                                    Parts are an additional charge.</p>
+                                <p>All Ecofriendly Mechanical's EcoShield Service Plan contracts run one calendar year
+                                    from invoice date.
+                                    <br>
+                                    The per-year price is for a standard single-family home
+                                    Parts are an additional charge
+                                </p>
+
+                                <p><strong>We Also Offer Maintenance Services for Geothermal Systems, Boilers,
+                                        Humidifiers, Dehumidifiers, Tankless Water Heaters, and Mini-splits.
+
+                                        Please contact us for more information</strong></p>
+
+
 
                                 <br>
                                 <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Contact Us</a>
