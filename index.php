@@ -12,7 +12,7 @@
 
       <div class="carousel-inner" role="listbox">
 
-        <div class="item">
+        <div class="item active">
           <a href="<?php echo $base_url ?>/geothermal.php"> <img src="<?php echo $base_url; ?>/img/tax credit geothermal-1 (1)-min (1).jpg"
               alt="first slide" width="100%">
           </a>
