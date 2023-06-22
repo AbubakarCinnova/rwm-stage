@@ -29,7 +29,7 @@
           </a>
         </div>
         <div class="item">
-          <a href="<?php echo $base_url ?>/contact-us.php"> <img src="<?php echo $base_url; ?>/img/genrerator-slider.png"
+          <a href="<?php echo $base_url ?>/heat-pumps.php"> <img src="<?php echo $base_url; ?>/img/Hybrid Heat (1).png"
               alt="fourth slide" width="100%">
           </a>
         </div>
