@@ -88,7 +88,7 @@
                                     improved energy efficiency compared to older models with lower SEER ratings.
                                 </p>
 
-                                <h2>Customized Heating Solutions</h2>
+                                <h2>Customized Heating and Cooling Solutions</h2>
                                 <p>At Ecofriendly Heating and Cooling, we provide personalized home comfort solutions
                                     tailored to your specific needs. We take into consideration various factors such as
                                     the size and design of your home, the insulation in your home, and even the behavior
