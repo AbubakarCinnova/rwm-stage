@@ -14,7 +14,7 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <h1>Reviews</h1>
-                                <a href="">
+                                <a href="https://g.page/r/CRl-H5pJtGchEAI/review">
                                     <img src="<?php echo $base_url ?>/img/reviews-google (1).gif" alt="google" target="_blank" >
                                 </a>
 
