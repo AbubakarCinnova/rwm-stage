@@ -1925,6 +1925,7 @@ a:hover {
 .navbar {
   background-color: #43928a;
   border-radius: 0;
+  border: 0;
 }
 
 .navbar-nav > li > a {
