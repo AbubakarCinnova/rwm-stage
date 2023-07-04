@@ -700,6 +700,7 @@ a:visited {
 
 .dropdown-menu {
   padding: 0px !important;
+  left: -1px !important;
 }
 
 .dropdown:hover .dropdown-menu {
