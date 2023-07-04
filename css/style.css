@@ -1605,10 +1605,11 @@ h6 {
   border-radius: 0px !important;
 }
 
-.btn-warning :hover {
-  background: #000000 !important;
+.btn-warning:focus,
+.btn-warning:hover {
+  background-color: #244866 !important;
   color: white !important;
-  transition: 0.5s;
+  transition: 0.5s ease-in-out;
 }
 
 #colRight {
