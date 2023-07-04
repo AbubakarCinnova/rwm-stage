@@ -3175,3 +3175,14 @@ strong {
   float: right;
   margin: 20px;
 }
+
+@media (min-width: 768px) {
+  .navbar-nav li:hover > ul.dropdown-menu {
+    display: block;
+  }
+
+  .navbar-nav li:hover > a {
+    background-color: black !important;
+    color: white !important;
+  }
+}
